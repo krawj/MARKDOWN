@@ -3,7 +3,15 @@ My exercise in MD
 xxxxx
 Oto jst mój tekst.   
 a oto jego drugi paragraf.  
-A oto trzeci. Bardzo dlugi, nieprawdaż, nie wiadmomo, gdzie będzie jego koniec. Może nigdzie, a może TU?  
+A oto trzeci. Bardzo dlugi, nieprawdaż, nie wiadmomo, gdzie będzie jego koniec. Może nigdzie, a może TU?  I to właśnie robimy teraz. a oto koniec. 
+**pogrubienie**
+__pogrubienie__
+~~przekr~~
+
+
+_a to jest kursywa_
+
+
 <!-- Example of title -->
 
 <!-- Here comes the table of content -->
