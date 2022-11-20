@@ -5,6 +5,11 @@ My exercise in MD
 Oto jst mój tekst.   
 a oto jego drugi paragraf.  
 A oto trzeci. Bardzo dlugi, nieprawdaż, nie wiadmomo, gdzie będzie jego koniec. Może nigdzie, a może TU?  I to właśnie robimy teraz. a oto koniec.   
+- [Nagłówki i podnagłówki](#nagłówki-i-podnagłówki)  
+- [Nagłówki](#podnagłówek)  
+- [Nagłówek](#podnagłówki)
+
+
 
 **pogrubienie**  
 
