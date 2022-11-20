@@ -15,7 +15,10 @@ odsyłacz
 [czytaj](www.innymislowy.pl)
 
 _a to jest kursywa_
-[dodaatkowa](Empty.md)    
+[dodatkowe info](jutro.docx)    
+![obrazek](https://picsum.photos/id/237/200/300)  
+
+  
 
 
 
