@@ -12,11 +12,14 @@ __pogrubienie__
 ## Podnagłówki
 ## Podnagłówek
 odsyłacz
-[czytaj](www.innymislowy.pl)
+[czytaj](https://www.innymislowy.pl)
 
-_a to jest kursywa_
-[dodatkowe info](jutro.docx)    
-![obrazek](https://picsum.photos/id/237/200/300)  
+_a to jest kursywa_  
+to jest plik graficzny
+![dodatkowe info](Obraz1.png)  
+A to jest obrazek
+![obrazek](https://picsum.photos/id/237/200/300 "love")  
+
 
   
 
