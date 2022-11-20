@@ -1,13 +1,18 @@
-<HEAD>
-My exercise in MD  
+<HEAD>My exercise in MD  
   
 
 Oto jst mój tekst.   
 a oto jego drugi paragraf.  
 A oto trzeci. Bardzo dlugi, nieprawdaż, nie wiadmomo, gdzie będzie jego koniec. Może nigdzie, a może TU?  I to właśnie robimy teraz. a oto koniec.   
 - [Nagłówki i podnagłówki](#nagłówki-i-podnagłówki)  
-- [Nagłówki](#podnagłówek)  
-- [Nagłówek](#podnagłówki)
+- [Podnagłówek 1](#podnagłówek)  
+- [Podnagłówek 2](#podnagłówki)
+
+
+| Column  | Another column | Last column |
+| ------- | -------------- | ----------- |
+| Text    | Another text   | ANd text    |
+| coś tam | i coś tam      | i coś tam   |
 
 
 
@@ -15,12 +20,11 @@ A oto trzeci. Bardzo dlugi, nieprawdaż, nie wiadmomo, gdzie będzie jego koniec
 
 __pogrubienie__  
 
-~~przekr~~
 
-# Nagłówki i podnagłówki
-## Podnagłówki
-## Podnagłówek
-odsyłacz
+
+
+
+syłacz
 [czytaj](https://www.innymislowy.pl)
 
 _a to jest kursywa_  
