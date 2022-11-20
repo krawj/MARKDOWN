@@ -1,16 +1,12 @@
 <<<<<<< HEAD
 My exercise in MD  
 xxxxx
+Oto jst mój tekst.   
+a oto jego drugi paragraf.  
+A oto trzeci. Bardzo dlugi, nieprawdaż, nie wiadmomo, gdzie będzie jego koniec. Może nigdzie, a może TU?  
 <!-- Example of title -->
 
 <!-- Here comes the table of content -->
-aabbcc 
-dd  
-dd
-  
-  aaa bbb cc  
-i tu jeszce coś  
-
 <!-- Example of paragraph of text with line break -->
 
 <!-- Example of another paragraph -->
@@ -42,18 +38,6 @@ i tu jeszce coś
 <!-- Example of numbered list -->
 
 <!-- Example of table -->
-
-=======
-My exercise in MD
-xxxxx
-<!-- Example of title -->
-
-<!-- Here comes the table of content -->
-aabbcc 
-dd  
-dd
-  
-  aaa bbb cc  
 
 <!-- Example of paragraph of text with line break -->
 
