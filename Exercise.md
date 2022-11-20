@@ -8,8 +8,15 @@ A oto trzeci. Bardzo dlugi, nieprawdaż, nie wiadmomo, gdzie będzie jego koniec
 __pogrubienie__
 ~~przekr~~
 
+# Nagłówki i podnagłówki
+## Podnagłówki
+## Podnagłówek
+odsyłacz
+[czytaj](www.innymislowy.pl)
 
 _a to jest kursywa_
+[dodaatkowa](Empty.md)    
+
 
 
 <!-- Example of title -->
@@ -79,5 +86,6 @@ _a to jest kursywa_
 
 <!-- Example of table -->
 
->>>>>>> 971cb98c32ae514a14acb2f3ae5269e6ec03e6d0
+>>>>>>> 
 <!-- Paragraph after table -->
+  
