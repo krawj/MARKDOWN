@@ -15,9 +15,9 @@
 ## 1. Wprowadzenie  
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkajaca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy babcia zachorowała, Kapturek postanwiła ją odwiedzić. A oto co było dalej.  
 Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie x, bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu. 
-Po drodze zdarzyło się parę rzeczy, o których można poczytać tutaj.
+Po drodze zdarzyło się parę rzeczy, o których można poczytać [tutaj] (https://pl.wikipedia.org/wiki/Czerwony_Kapturek)
 
-**Uwaga! Może być spoiler!**
+**Uwaga! Link może zawierać spoiler!**
 
 _For English, go to point 3._  
 
@@ -25,10 +25,6 @@ _For English, go to point 3._
 <!-- Example of external link -->
 
 <!-- Example of link to another file -->
-
-<!-- Example of an image -->
-
-<!-- Example of an image with hover text -->
 
 <!-- Example of equation or inline code -->
 
@@ -64,14 +60,8 @@ A oto, co Kapturek miał w koszyczku:
 
 ## 5. Kapturek  
 A oto jak wyglada Kapturek. 
+![tutaj](czerwonykapturek.png "To jest Czerwony Kapturek")
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: (czerwonykapturek.png) "To jest właśnie Czerwony Kapturek"
 ## 6. Koszt wiktuałów  
 ## Kod  
 ```javascript
