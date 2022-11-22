@@ -45,19 +45,21 @@ _For English, go to point 3._
 1. Domek Kapturka        
 * Spiżarnia
 * Piwniczka z winem
+* Sad
 2. Ciemny las
 3. Chatka Babci
 4. Wiejski kościółek
 
 ## 4. Zawartość koszyczka  
 A oto, co Kapturek miał w koszyczku:  
-| Lp.        | Produkt | Liczba |
-| ---------- | ------- | ------ |
-| 1. Jabłka  | 5       |
-| 2. Gruszki | 3       |
-| 3. Wino    | 1       |
-| 4. Miód    | 1       |
-| 5. Ciasto  | 1       |
+| Lp. | Produkt | Kolor | Liczba |
+| --- | ------- | ----- | ------ |
+| 1. |Jabłka  | czerwone       | 5|
+| 2. |Gruszki | zielone     |3|
+| 3. |Wino    | czerwone     |1|
+| 4. |Miód    | miodowy       |1|
+| 5. |Ciasto  | żółty     |1|
+
 
 ## 5. Kapturek  
 A oto jak wyglada Kapturek. 
