@@ -64,6 +64,14 @@ A oto, co Kapturek miał w koszyczku:
 
 ## 5. Kapturek  
 A oto jak wyglada Kapturek. 
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: (.czerwonykapturek.png) "To jest właśnie Czerwony Kapturek"
 ## 6. Koszt wiktuałów  
 ## Kod  
 ```javascript
