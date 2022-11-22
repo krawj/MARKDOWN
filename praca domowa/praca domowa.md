@@ -57,9 +57,12 @@ A oto, co Kapturek miał w koszyczku:
 
 ## 5. Kapturek  
 A oto jak wyglada Kapturek. 
-![tutaj](czerwonykapturek.png "To jest Czerwony Kapturek")
+![Tak wygląda kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")
 
 ## 6. Koszt wiktuałów  
+Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować. I tak nie umiem tu zrobić spacji.
+
+$$ Koszt/postać z bajki = {(cena jabłka*5+cena gruszki*3+cena butelki wina+cena mioddu+cena ciasta)  \over 3} $$
 ## Kod  
 ```javascript
 function test() {
