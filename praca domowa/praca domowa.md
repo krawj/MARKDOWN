@@ -6,6 +6,7 @@
   - [4. Zawartość koszyczka](#4-zawartość-koszyczka)
   - [5. Kapturek](#5-kapturek)
   - [6. Koszt wiktuałów](#6-koszt-wiktuałów)
+  - [Kod](#kod)
   - [7. Zakończenie](#7-zakończenie)
 
 
@@ -52,7 +53,7 @@ _For English, go to point 3._
 
 ## 4. Zawartość koszyczka  
 A oto, co Kapturek miał w koszyczku:  
-| Lp. | Produkt | Kolor | Liczba |
+| Lp. | Produkt | Kolor | Szt. |
 | --- | ------- | ----- | ------ |
 | 1. |Jabłka  | czerwone       | 5|
 | 2. |Gruszki | zielone     |3|
@@ -64,10 +65,21 @@ A oto, co Kapturek miał w koszyczku:
 ## 5. Kapturek  
 A oto jak wyglada Kapturek. 
 ## 6. Koszt wiktuałów  
-
+## Kod  
+```javascript
+function test() {
+console.log("look ma`, no spaces");
+}
+```  
+I inny kod  
+```function test() {
+console.log("look ma`, no spaces");
+}```
+  
 
 ## 7. Zakończenie  
-I jak powiedział Adam Mickiewicz, >"I ja tam byłem, miód i wino piłem."  
+I, jak powiedział Adam Mickiewicz,  
+"I ja tam byłem, miód i wino piłem."  
 
 
 I to by było na tyle.
