@@ -71,7 +71,7 @@ Inline-style:
 Reference-style: 
 ![alt text][logo]
 
-[logo]: (.czerwonykapturek.png) "To jest właśnie Czerwony Kapturek"
+[logo]: (czerwonykapturek.png) "To jest właśnie Czerwony Kapturek"
 ## 6. Koszt wiktuałów  
 ## Kod  
 ```javascript
