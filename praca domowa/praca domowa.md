@@ -1,13 +1,17 @@
-# Co każdy powinien wiedzieć o Czerwonym Kapturku  
-- [Co każdy powinien wiedzieć o Czerwonym Kapturku](#co-każdy-powinien-wiedzieć-o-czerwonym-kapturku)
+# Co każdy powinien wiedzieć o Czerwonym Kapturku  -     
+
+
+Spis treści
+     
+  - [1. - [Co każdy powinien wiedzieć o Czerwonym Kapturku  -](#co-każdy-powinien-wiedzieć-o-czerwonym-kapturku---)
   - [1. Wprowadzenie](#1-wprowadzenie)
   - [2. _Dramatis personae_](#2-dramatis-personae)
   - [3. Miejsca akcji](#3-miejsca-akcji)
   - [4. Zawartość koszyczka](#4-zawartość-koszyczka)
   - [5. Kapturek](#5-kapturek)
   - [6. Koszt wiktuałów](#6-koszt-wiktuałów)
-  - [Kod](#kod)
   - [7. Zakończenie](#7-zakończenie)
+  - [8. Kod](#8-kod)
 
 
 
@@ -15,10 +19,11 @@
 ## 1. Wprowadzenie  
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkajaca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy babcia zachorowała, Kapturek postanwiła ją odwiedzić. A oto co było dalej.  
 Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie x, bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu. 
-Po drodze zdarzyło się parę rzeczy, o których można poczytać tutaj. !(https://pl.wikipedia.org/wiki/Czerwony_Kapturek)  
+Po drodze zdarzyło się parę rzeczy, o których można poczytać !tutaj (https://pl.wikipedia.org/wiki/Czerwony_Kapturek)
+
 **Uwaga! Link może zawierać spoiler!**
 
-_For English version, see this file._ !(English.docx)
+_For English version, see ![this file] (.English.docx)_
 
 <!-- Example of link to another file -->
 
@@ -45,13 +50,13 @@ _For English version, see this file._ !(English.docx)
 
 ## 4. Zawartość koszyczka  
 A oto, co Kapturek miał w koszyczku:  
-| Lp. | Produkt | Kolor | Szt. |
-| --- | ------- | ----- | ------ |
-| 1. |Jabłka  | czerwone       | 5|
-| 2. |Gruszki | zielone     |3|
-| 3. |Wino    | czerwone     |1|
-| 4. |Miód    | miodowy       |1|
-| 5. |Ciasto  | żółty     |1|
+| Lp. | Produkt | Kolor    | Szt. |
+| --- | ------- | -------- | ---- |
+| 1.  | Jabłka  | czerwone | 5    |
+| 2.  | Gruszki | zielone  | 3    |
+| 3.  | Wino    | czerwone | 1    |
+| 4.  | Miód    | miodowy  | 1    |
+| 5.  | Ciasto  | żółty    | 1    |
 
 
 ## 5. Kapturek  
@@ -59,10 +64,19 @@ A oto jak wyglada Kapturek.
 ![Tak wygląda kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")
 
 ## 6. Koszt wiktuałów  
-Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować. I tak nie umiem tu zrobić spacji.
+Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować. I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny.
 
-$$ Koszt/postać z bajki = {(cena jabłka*5+cena gruszki*3+cena butelki wina+cena mioddu+cena ciasta)  \over 3} $$
-## Kod  
+$$ Koszt/postać z bajki = {(cena_jabłka*5+cena_gruszki*3+cena_-butelki_wina+cena_miodu+cena_ciasta)  \over 3} $$  
+
+## 7. Zakończenie  
+I, jak powiedział Adam Mickiewicz,  
+"I ja tam byłem, miód i wino piłem."  
+
+
+I to by było na tyle.
+## 8. Kod  
+Został jeszcze kod, ale tu na razie mam składnię i nie wiem, czym ją wypełnić.  
+
 ```javascript
 function test() {
 console.log("look ma`, no spaces");
@@ -74,9 +88,4 @@ console.log("look ma`, no spaces");
 }```
   
 
-## 7. Zakończenie  
-I, jak powiedział Adam Mickiewicz,  
-"I ja tam byłem, miód i wino piłem."  
 
-
-I to by było na tyle.
