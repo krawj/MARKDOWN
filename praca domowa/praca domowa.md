@@ -67,9 +67,9 @@ Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną 
 $$ Koszt/postać z bajki = {(cena_jabłka*5+cena_gruszki*3+cena_-butelki_wina+cena_miodu+cena_ciasta)  \over 3} $$  
 
 ## 7. Zakończenie  
-I, jak powiedział Adam Mickiewicz,  
+I, jak powiedział Adam Mickiewicz,  >
 >I ja tam byłem, miód i wino piłem. 
-
+>
 
 I to by było na tyle.
 ## 8. Kod  
