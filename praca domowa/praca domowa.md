@@ -9,7 +9,6 @@ Spis treści
 - [4. Zawartość koszyczka](#4-zawartość-koszyczka)
 - [5. Kapturek](#5-kapturek)
 - [6. Koszt wiktuałów](#6-koszt-wiktuałów)
-- [$$ Koszt/postaćzbajki = {(cena\_jabłka*5+cena\_gruszki*3+cena\_butelki\_wina+cena\_miodu+cena\_ciasta)  \\over 3} $$](#-kosztpostaćzbajki--cena_jabłka5cena_gruszki3cena_butelki_winacena_mioducena_ciasta--over-3-)
 - [7. Zakończenie](#7-zakończenie)
 - [8. Kod](#8-kod)
 
@@ -65,7 +64,7 @@ A oto jak wyglada Kapturek. [*]
 Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować. I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny.
 
 $$ Koszt/postaćzbajki = {(cena_jabłka*5+cena_gruszki*3+cena_butelki_wina+cena_miodu+cena_ciasta)  \over 3} $$  
--
+
 ## 7. Zakończenie  
 I, jak powiedział Adam Mickiewicz,  
 „I ja tam byłem, miód i wino piłem.”
@@ -79,11 +78,32 @@ I to by było na tyle.
 ## 8. Kod  
 Został jeszcze kod, ale tu na razie mam składnię i nie wiem, czym ją wypełnić.  
 
+Inline `code` has `back-ticks around` it.
+
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
+
 ```javascript
 function test() {
 console.log("look ma`, no spaces");
 }
 ```  
+
+
+
 I inny kod  
 ```function test() {
 console.log("look ma`, no spaces");
