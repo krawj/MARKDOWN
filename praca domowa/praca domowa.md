@@ -1,6 +1,7 @@
 # Co każdy powinien wiedzieć o Czerwonym Kapturku<!-- omit in toc -->  
 
-Spis treści    
+Spis treści   
+== Nie chciałam spisu z bulletami, ale nie umiem się ich pozbyć .== 
 
 - [1. Wprowadzenie](#1-wprowadzenie)
 - [2. _Dramatis personae_](#2-dramatis-personae)
@@ -56,7 +57,9 @@ A oto, co Kapturek miał w koszyczku:
 
 
 ## 5. Kapturek  
-A oto jak wyglada Kapturek. 
+A oto jak wyglada Kapturek.[^zrodło]  
+
+[^zrodło]: Źródło: Internet
 ![Tak wygląda kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")
 
 ## 6. Koszt wiktuałów  
