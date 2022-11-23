@@ -65,7 +65,7 @@ I, jak powiedział Adam Mickiewicz,
 >
 Powiedział też, choć to akurat nie ma nic do rzeczy:  
 
-"Litwo,  Ojczyzno moja, Ty jesteś jak zdrowie,   
+„Litwo,  Ojczyzno moja, Ty jesteś jak zdrowie,   
 ile Cię cenić trzeba, ten tylko się dowie,   
 kto Cię stracił. Dziś piękność Twą w całej ozdobie  
 widzę i opisuję, bo tęsknię po Tobie."
