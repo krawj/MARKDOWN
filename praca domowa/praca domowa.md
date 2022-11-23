@@ -15,16 +15,16 @@ Spis treści
 
 ## 1. Wprowadzenie  
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkajaca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
-Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie x, bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu. 
-Po drodze zdarzyło się parę rzeczy, o których można poczytać [tutaj](https://pl.wikipedia.org/wiki/Czerwony_Kapturek)
+
+Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie x, bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu.  
+
+Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](https://pl.wikipedia.org/wiki/Czerwony_Kapturek). Jednak ogólnie nie zalecamy czytania streszczeń, ani też zbytniego polegania na Wikipedii.
 
 **Uwaga! Link może zawierać spoiler!**
 
 _For English version, see [this file](../git/../praca%20domowa/English.pdf)_
 
-<!-- Example of equation or inline code -->
 
-<!-- Example of a block of code -->  
 
 
 ## 2. _Dramatis personae_  
@@ -35,13 +35,14 @@ _For English version, see [this file](../git/../praca%20domowa/English.pdf)_
 * Leśniczy
 
 ## 3. Miejsca akcji
-1. Domek Kapturka        
-  * Spiżarnia
-  * Piwniczka z winem
-* Sad
+1. Domostwo Kapturka        
+    * Kuchnia 
+    * Spiżarnia
+    * Piwniczka z winem
+    * Sad
 2. Ciemny las
 3. Chatka Babci
-4. Wiejski kościółek
+4. Dom Leśniczego
 
 ## 4. Zawartość koszyczka  
 A oto, co Kapturek miał w koszyczku:  
@@ -55,10 +56,10 @@ A oto, co Kapturek miał w koszyczku:
 
 
 ## 5. Kapturek  
-A oto jak wyglada Kapturek. [*]  
+A oto jak wyglada Kapturek. [^1] 
 
 ![kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")
-[*] Źródło: Internet, oczywiście.
+[^1] Źródło: Internet, oczywiście.
 
 ## 6. Koszt wiktuałów  
 Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować. I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny.
@@ -69,13 +70,14 @@ $$ Koszt/postaćzbajki = {(cena_jabłka*5+cena_gruszki*3+cena_butelki_wina+cena_
 I, jak powiedział Adam Mickiewicz,  
 „I ja tam byłem, miód i wino piłem.”
 >
-Powiedział też:  
+Powiedział też, choć to akurat nie ma nic do rzeczy:  
 
 "Litwo,  Ojczyzno moja, Ty jesteś jak zdrowie, ile Cię cenić trzeba, ten tylko się dowie, kto Cię stracił. Dziś piękność Twą w całej ozdobie widzę i opisuję, bo tęsknię po Tobie."
 >>
 
 I to by było na tyle.
 ## 8. Kod  
+<!-- Example of a block of code -->  
 Został jeszcze kod, ale tu na razie mam składnię i nie wiem, czym ją wypełnić.  
 
 Inline `code` has `back-ticks around` it.
@@ -101,9 +103,6 @@ function test() {
 console.log("look ma`, no spaces");
 }
 ```  
-
-
-
 I inny kod  
 ```function test() {
 console.log("look ma`, no spaces");
