@@ -9,7 +9,7 @@ Spis treści
 - [4. Zawartość koszyczka](#4-zawartość-koszyczka)
 - [5. Kapturek](#5-kapturek)
 - [6. Koszt wiktuałów](#6-koszt-wiktuałów)
-- [$$ Koszt/postać-z-bajki = {(cena\_-jabłka-*-5+cena\_-gruszki-*-3+cena\_-butelki\_-wina+cena\_-miodu+cena\_c-iasta)  \\over 3} $$](#-kosztpostać-z-bajki--cena_-jabłka--5cena_-gruszki--3cena_-butelki_-winacena_-mioducena_c-iasta--over-3-)
+- [$$ Koszt/postaćzbajki = {(cena\_jabłka*5+cena\_gruszki*3+cena\_butelki\_wina+cena\_miodu+cena\_ciasta)  \\over 3} $$](#-kosztpostaćzbajki--cena_jabłka5cena_gruszki3cena_butelki_winacena_mioducena_ciasta--over-3-)
 - [7. Zakończenie](#7-zakończenie)
 - [8. Kod](#8-kod)
 
@@ -64,7 +64,7 @@ A oto jak wyglada Kapturek. [*]
 ## 6. Koszt wiktuałów  
 Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować. I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny.
 
-$$ Koszt/postać-z-bajki = {(cena_-jabłka-*-5+cena_-gruszki-*-3+cena_-butelki_-wina+cena_-miodu+cena_c-iasta)  \over 3} $$  
+$$ Koszt/postaćzbajki = {(cena_jabłka*5+cena_gruszki*3+cena_butelki_wina+cena_miodu+cena_ciasta)  \over 3} $$  
 -
 ## 7. Zakończenie  
 I, jak powiedział Adam Mickiewicz,  
