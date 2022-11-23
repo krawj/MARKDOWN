@@ -22,8 +22,6 @@ Po drodze zdarzyło się parę rzeczy, o których można poczytać [tutaj](https
 
 _For English version, see [this file](../git/../praca%20domowa/English.pdf)_
 
-<!-- Example of link to another file -->
-
 <!-- Example of equation or inline code -->
 
 <!-- Example of a block of code -->  
@@ -59,8 +57,8 @@ A oto, co Kapturek miał w koszyczku:
 ## 5. Kapturek  
 A oto jak wyglada Kapturek.[^1]  
 
-![Tak wygląda kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")
-[^1] Źródło: Internet, oczywiście.
+![kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")
+[*] Źródło: Internet, oczywiście.
 
 ## 6. Koszt wiktuałów  
 Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować. I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny.
