@@ -20,8 +20,7 @@ Po drodze zdarzyło się parę rzeczy, o których można poczytać [tutaj](https
 
 **Uwaga! Link może zawierać spoiler!**
 
-_For English version, see this file ![here](English2.jpg)_  
-
+_For English version, see [this file](../git/../praca%20domowa/English.pdf)_
 
 <!-- Example of link to another file -->
 
@@ -39,8 +38,8 @@ _For English version, see this file ![here](English2.jpg)_
 
 ## 3. Miejsca akcji
 1. Domek Kapturka        
-* Spiżarnia
-* Piwniczka z winem
+  * Spiżarnia
+  * Piwniczka z winem
 * Sad
 2. Ciemny las
 3. Chatka Babci
