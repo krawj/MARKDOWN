@@ -1,7 +1,7 @@
 # Co każdy powinien wiedzieć o Czerwonym Kapturku<!-- omit in toc -->  
 
 Spis treści   
-== Nie chciałam spisu z bulletami, ale nie umiem się ich pozbyć .== 
+== Nie chciałam spisu z bulletami, ale nie umiem się ich pozbyć na stałe. ==   
 
 - [1. Wprowadzenie](#1-wprowadzenie)
 - [2. _Dramatis personae_](#2-dramatis-personae)
@@ -59,9 +59,8 @@ A oto, co Kapturek miał w koszyczku:
 ## 5. Kapturek  
 A oto jak wyglada Kapturek.[^zrodło]  
 
-[^zrodło]: Źródło: Internet
 ![Tak wygląda kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")
-
+Źródło: Internet, oczywiście.
 ## 6. Koszt wiktuałów  
 Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować. I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny.
 
@@ -69,7 +68,7 @@ $$ Koszt/postać z bajki = {(cena_jabłka*5+cena_gruszki*3+cena_-butelki_wina+ce
 
 ## 7. Zakończenie  
 I, jak powiedział Adam Mickiewicz,  
-> "I ja tam byłem, miód i wino piłem."  
+>"I ja tam byłem, miód i wino piłem."  
 
 
 I to by było na tyle.
