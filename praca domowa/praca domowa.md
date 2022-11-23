@@ -68,7 +68,7 @@ $$ Koszt/postać z bajki = {(cena_jabłka*5+cena_gruszki*3+cena_-butelki_wina+ce
 
 ## 7. Zakończenie  
 I, jak powiedział Adam Mickiewicz,  
->"I ja tam byłem, miód i wino piłem."  
+>I ja tam byłem, miód i wino piłem. 
 
 
 I to by było na tyle.
