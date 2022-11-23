@@ -57,10 +57,10 @@ A oto, co Kapturek miał w koszyczku:
 
 
 ## 5. Kapturek  
-A oto jak wyglada Kapturek.[^zrodło]  
+A oto jak wyglada Kapturek.[^1]  
 
 ![Tak wygląda kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")
-Źródło: Internet, oczywiście.
+[^1]  Źródło: Internet, oczywiście.
 ## 6. Koszt wiktuałów  
 Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować. I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny.
 
