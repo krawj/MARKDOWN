@@ -3,14 +3,14 @@
 Spis treści   
 `Nie chciałam spisu z bulletami, ale nie umiem się ich pozbyć na stałe.`
 
-[1. Wprowadzenie](#1-wprowadzenie)
-[2. _Dramatis personae_](#2-dramatis-personae)
-[3. Miejsca akcji](#3-miejsca-akcji)
-[4. Zawartość koszyczka](#4-zawartość-koszyczka)
-[5. Kapturek](#5-kapturek)
-[6. Koszt wiktuałów](#6-koszt-wiktuałów)
-[7. Zakończenie](#7-zakończenie)
-[8. Kod](#8-kod)
+[1. Wprowadzenie](#1-wprowadzenie)  
+[2. _Dramatis personae_](#2-dramatis-personae)  
+[3. Miejsca akcji](#3-miejsca-akcji)  
+[4. Zawartość koszyczka](#4-zawartość-koszyczka)  
+[5. Kapturek](#5-kapturek)  
+[6. Koszt wiktuałów](#6-koszt-wiktuałów)  
+[7. Zakończenie](#7-zakończenie)  
+[8. Kod](#8-kod)  
 
 ## 1. Wprowadzenie  
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkająca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
