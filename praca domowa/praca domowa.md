@@ -73,6 +73,10 @@ $$ Koszt/postać z bajki = {(cena_jabłka*5+cena_gruszki*3+cena_-butelki_wina+ce
 I, jak powiedział Adam Mickiewicz,  
 „I ja tam byłem, miód i wino piłem.”
 >
+Powiedział też:  
+
+"Litwo,  Ojczyzno moja, Ty jesteś jak zdrowie, ile Cię cenić trzeba, ten tylko się dowie, kto Cię stracił. Dziś piękność Twą w całej ozdobie widzę i opisuję, bo tęsknię po Tobie."
+>>
 
 I to by było na tyle.
 ## 8. Kod  
