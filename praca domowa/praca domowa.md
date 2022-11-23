@@ -19,11 +19,12 @@ Spis treści
 ## 1. Wprowadzenie  
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkajaca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy babcia zachorowała, Kapturek postanwiła ją odwiedzić. A oto co było dalej.  
 Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie x, bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu. 
-Po drodze zdarzyło się parę rzeczy, o których można poczytać !tutaj (https://pl.wikipedia.org/wiki/Czerwony_Kapturek)
+Po drodze zdarzyło się parę rzeczy, o których można poczytać [tutaj](https://pl.wikipedia.org/wiki/Czerwony_Kapturek)
 
 **Uwaga! Link może zawierać spoiler!**
 
-_For English version, see ![this file] (.English.docx)_
+_For English version, see [this_file] (.English.pdf)_  
+![dodatkowe info] (.English.pdf)  
 
 <!-- Example of link to another file -->
 
