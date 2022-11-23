@@ -21,7 +21,7 @@ Po drodze zdarzyło się parę rzeczy, o których można poczytać [tutaj](https
 **Uwaga! Link może zawierać spoiler!**
 
 _For English version, see below   
-![file](English.jpg)_  
+![file](English2.jpg)_  
 
 
 <!-- Example of link to another file -->
@@ -73,6 +73,7 @@ $$ Koszt/postać z bajki = {(cena_jabłka*5+cena_gruszki*3+cena_-butelki_wina+ce
 I, jak powiedział Adam Mickiewicz,  
 „I ja tam byłem, miód i wino piłem.”
 >
+
 I to by było na tyle.
 ## 8. Kod  
 Został jeszcze kod, ale tu na razie mam składnię i nie wiem, czym ją wypełnić.  
