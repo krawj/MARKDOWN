@@ -12,7 +12,6 @@ Spis treści
 - [7. Zakończenie](#7-zakończenie)
 - [8. Kod](#8-kod)
 
-
 ## 1. Wprowadzenie  
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkajaca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
 
@@ -23,9 +22,6 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 **Uwaga! Link może zawierać spoiler!**
 
 _For English version, see [this file](../git/../praca%20domowa/English.pdf)_
-
-
-
 
 ## 2. _Dramatis personae_  
 
@@ -54,12 +50,11 @@ A oto, co Kapturek miał w koszyczku:
 | 4.  | Miód    | miodowy  | 1    |
 | 5.  | Ciasto  | żółty    | 1    |
 
-
 ## 5. Kapturek  
-A oto jak wyglada Kapturek. [^1] 
+A oto jak wyglada Kapturek. [*] 
 
 ![kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")
-[^1] Źródło: Internet, oczywiście.
+[*] Źródło: Internet, oczywiście.
 
 ## 6. Koszt wiktuałów  
 Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować. I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny.
@@ -72,7 +67,10 @@ I, jak powiedział Adam Mickiewicz,
 >
 Powiedział też, choć to akurat nie ma nic do rzeczy:  
 
-"Litwo,  Ojczyzno moja, Ty jesteś jak zdrowie, ile Cię cenić trzeba, ten tylko się dowie, kto Cię stracił. Dziś piękność Twą w całej ozdobie widzę i opisuję, bo tęsknię po Tobie."
+"Litwo,  Ojczyzno moja, Ty jesteś jak zdrowie,   
+ile Cię cenić trzeba, ten tylko się dowie,   
+kto Cię stracił. Dziś piękność Twą w całej ozdobie  
+widzę i opisuję, bo tęsknię po Tobie."
 >>
 
 I to by było na tyle.
