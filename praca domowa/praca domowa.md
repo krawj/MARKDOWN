@@ -1,19 +1,15 @@
-# Co każdy powinien wiedzieć o Czerwonym Kapturku  -     
+# Co każdy powinien wiedzieć o Czerwonym Kapturku<!-- omit in toc -->  
 
+Spis treści    
 
-Spis treści
-     
-  - [1. - [Co każdy powinien wiedzieć o Czerwonym Kapturku  -](#co-każdy-powinien-wiedzieć-o-czerwonym-kapturku---)
-  - [1. Wprowadzenie](#1-wprowadzenie)
-  - [2. _Dramatis personae_](#2-dramatis-personae)
-  - [3. Miejsca akcji](#3-miejsca-akcji)
-  - [4. Zawartość koszyczka](#4-zawartość-koszyczka)
-  - [5. Kapturek](#5-kapturek)
-  - [6. Koszt wiktuałów](#6-koszt-wiktuałów)
-  - [7. Zakończenie](#7-zakończenie)
-  - [8. Kod](#8-kod)
-
-
+- [1. Wprowadzenie](#1-wprowadzenie)
+- [2. _Dramatis personae_](#2-dramatis-personae)
+- [3. Miejsca akcji](#3-miejsca-akcji)
+- [4. Zawartość koszyczka](#4-zawartość-koszyczka)
+- [5. Kapturek](#5-kapturek)
+- [6. Koszt wiktuałów](#6-koszt-wiktuałów)
+- [7. Zakończenie](#7-zakończenie)
+- [8. Kod](#8-kod)
 
 
 ## 1. Wprowadzenie  
@@ -23,8 +19,7 @@ Po drodze zdarzyło się parę rzeczy, o których można poczytać [tutaj](https
 
 **Uwaga! Link może zawierać spoiler!**
 
-_For English version, see [this_file] (.English.pdf)_  
-![dodatkowe info] (.English.pdf)  
+_For English version, see ![file](English.jpg)_
 
 <!-- Example of link to another file -->
 
@@ -71,7 +66,7 @@ $$ Koszt/postać z bajki = {(cena_jabłka*5+cena_gruszki*3+cena_-butelki_wina+ce
 
 ## 7. Zakończenie  
 I, jak powiedział Adam Mickiewicz,  
-"I ja tam byłem, miód i wino piłem."  
+> "I ja tam byłem, miód i wino piłem."  
 
 
 I to by było na tyle.
