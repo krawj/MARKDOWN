@@ -13,10 +13,10 @@ Spis treści
 - [8. Kod](#8-kod)
 
 ## 1. Wprowadzenie  
-Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkajaca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
+Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkająca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
 
-Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie [4], bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu.  
-
+Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie [link text](#4), bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu.  
+<<
 Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](https://pl.wikipedia.org/wiki/Czerwony_Kapturek). Jednak ogólnie nie zalecamy czytania streszczeń, ani też zbytniego polegania na Wikipedii.
 
 **Uwaga! Link może zawierać spoiler!**
@@ -40,7 +40,7 @@ _For English version, see [this file](../git/../praca%20domowa/English.pdf)_.
 3. Chatka Babci
 4. Dom Leśniczego
 
-## 4. Zawartość koszyczka  
+## <a name="4"></a>4. Zawartość koszyczka  
 A oto, co Kapturek miał w koszyczku:  
 | Lp. | Produkt | Kolor    | Szt. |
 | --- | ------- | -------- | ---- |
