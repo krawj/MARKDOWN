@@ -21,7 +21,7 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 **Uwaga! Link może zawierać spoiler!**
 
-_For English version, see [this file](../git/../praca%20domowa/English.pdf)_
+_For English version, see [this file].(../git/../praca%20domowa/English.pdf)_
 
 ## 2. _Dramatis personae_  
 
