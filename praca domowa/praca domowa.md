@@ -56,7 +56,7 @@ A oto jak wyglada Kapturek. <sup>1.</sup>
 ## 6. Koszt wiktuałów  
 Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować.  
 
-`I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny. I emoji`
+`I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny. I emoji` [:satisfied:]
 
 $$ 
 Koszt/postaćzbajki = {(cena_jabłka\times5+cena_gruszki\times3+cena_butelki_wina+cena_miodu+cena_ciasta)  \over 3}
