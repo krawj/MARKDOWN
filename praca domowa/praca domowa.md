@@ -78,35 +78,9 @@ widzę i opisuję, bo tęsknię po Tobie."
 I to by było na tyle.
 ## 8. Kod  
 <!-- Example of a block of code -->  
-Został jeszcze kod, ale tu na razie mam składnię i nie wiem, czym ją wypełnić.  
+`Został jeszcze kod, ale tu na razie mam składnię i nie wiem, czym ją wypełnić. Na razie używam tego jako podświetlenia`.  
 
-Inline `code` has `back-ticks around` it.
-
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-```javascript
-function test() {
-console.log("look ma`, no spaces");
-}
-```  
-I inny kod  
-```function test() {
-console.log("look ma`, no spaces");
-}```
+Coś się wpisuje `tu` i to `daje taki efekt`. 
   
 
 
