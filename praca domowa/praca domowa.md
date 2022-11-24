@@ -51,12 +51,12 @@ A oto, co Kapturek miał w koszyczku:
 A oto jak wyglada Kapturek. <sup>1.</sup>
 ![kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")  
 
-<sup>1.</sup> Źródło: Internet, oczywiście.  `Tu próbowałam zrbić przypis dolny, ale to chyba jednak nie tak się robi.`
+<sup>1.</sup> Źródło: Internet, oczywiście.  `Tu próbowałam zrobić przypis dolny, ale to chyba jednak nie tak się robi.`
 
 ## 6. Koszt wiktuałów  
 Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować.  
 
-`I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny. I emoji` [:satisfied:]
+`I tak nie umiem tu zrobić spacji. Ale przypadkiem wyszedł mi indeks dolny. I emoji` :satisfied:
 
 $$ 
 Koszt/postaćzbajki = {(cena_jabłka\times5+cena_gruszki\times3+cena_butelki_wina+cena_miodu+cena_ciasta)  \over 3}
@@ -66,10 +66,10 @@ $$
 ## 7. Zakończenie  
 I, jak powiedział Adam Mickiewicz,  
 > „I ja tam byłem, miód i wino piłem.”
->
+
 Powiedział też, choć to akurat nie ma nic do rzeczy:  
 
->>„Litwo,  Ojczyzno moja, Ty jesteś jak zdrowie,   
+>> „Litwo,  Ojczyzno moja, Ty jesteś jak zdrowie,   
 ile Cię cenić trzeba, ten tylko się dowie,   
 kto Cię stracił. Dziś piękność Twą w całej ozdobie  
 widzę i opisuję, bo tęsknię po Tobie."
