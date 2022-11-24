@@ -1,7 +1,6 @@
 # Co każdy powinien wiedzieć o Czerwonym Kapturku<!-- omit in toc -->  
 
 Spis treści   
-`Nie chciałam spisu z bulletami, ale nie umiem się ich pozbyć na stałe.`
 
 [1. Wprowadzenie](#1-wprowadzenie)  
 [2. _Dramatis personae_](#2-dramatis-personae)  
@@ -49,13 +48,15 @@ A oto, co Kapturek miał w koszyczku:
 | 5.  | Ciasto  | żółty    | 1    |
 
 ## 5. Kapturek  
-A oto jak wyglada Kapturek. [^1^]
+A oto jak wyglada Kapturek. <sup>1.</sup>
+![kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")  
 
-![kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")
-Źródło: Internet, oczywiście.
+<sup>1.</sup> Źródło: Internet, oczywiście.  `Tu próbowałam zrbić przypis dolny, ale to chyba jednak nie tak się robi.`
 
 ## 6. Koszt wiktuałów  
-Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować. I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny.
+Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować.  
+
+`I tak nie umiem tu zrobić spacji. Ale przypadkiem umiem robić indeks dolny. I emoji`
 
 $$ 
 Koszt/postaćzbajki = {(cena_jabłka\times5+cena_gruszki\times3+cena_butelki_wina+cena_miodu+cena_ciasta)  \over 3}
@@ -64,15 +65,15 @@ $$
 
 ## 7. Zakończenie  
 I, jak powiedział Adam Mickiewicz,  
-„I ja tam byłem, miód i wino piłem.”
+> „I ja tam byłem, miód i wino piłem.”
 >
 Powiedział też, choć to akurat nie ma nic do rzeczy:  
 
-„Litwo,  Ojczyzno moja, Ty jesteś jak zdrowie,   
+>>„Litwo,  Ojczyzno moja, Ty jesteś jak zdrowie,   
 ile Cię cenić trzeba, ten tylko się dowie,   
 kto Cię stracił. Dziś piękność Twą w całej ozdobie  
 widzę i opisuję, bo tęsknię po Tobie."
->>
+>>  
 
 I to by było na tyle.
 ## 8. Kod  
