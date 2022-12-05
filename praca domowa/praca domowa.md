@@ -23,7 +23,7 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 _For English version, see [this file](../git/../praca%20domowa/English.pdf)_.  
 ![_or this file_](English2.jpg)  
-![_or this_](.English.jpg)  
+![_or this_](.English2.jpg)  
 ![_or even this_](../git/../praca%20domowa/English.pdf). 
 
 ## 2. _Dramatis personae_
