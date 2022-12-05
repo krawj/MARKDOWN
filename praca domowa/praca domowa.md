@@ -22,9 +22,9 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 **Uwaga! Link może zawierać spoiler!**
 
 _For English version, see [this file](../git/../praca%20domowa/English.pdf)_.  
-![or this file](English2.png)  
-![or this](English2.jpg)  
-
+![or this file](English2.jpg)  
+![or this](English.jpg)  
+![or even this](English.txt)  
 
 ## 2. _Dramatis personae_
 
