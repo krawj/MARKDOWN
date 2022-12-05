@@ -2,25 +2,31 @@
 
 Spis treści   
 
-[1. Wprowadzenie](#1-wprowadzenie)  
-[2. _Dramatis personae_](#2-dramatis-personae)  
-[3. Miejsca akcji](#3-miejsca-akcji)  
-[4. Zawartość koszyczka](#4-zawartość-koszyczka)  
-[5. Kapturek](#5-kapturek)  
-[6. Koszt wiktuałów](#6-koszt-wiktuałów)  
-[7. Zakończenie](#7-zakończenie)  
-[8. Kod](#8-kod)  
+- [1. Wprowadzenie](#1-wprowadzenie)
+- [2. _Dramatis personae_](#2-dramatis-personae)
+- [3. Miejsca akcji](#3-miejsca-akcji)
+- [4. Zawartość koszyczka](#4-zawartość-koszyczka)
+- [5. Kapturek](#5-kapturek)
+- [6. Koszt wiktuałów](#6-koszt-wiktuałów)
+- [7. Zakończenie](#7-zakończenie)
+- [8. Kod](#8-kod)
+
+
 
 ## 1. Wprowadzenie  
+
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkająca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
 Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie [4](#4), bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu. 
 Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](https://pl.wikipedia.org/wiki/Czerwony_Kapturek). Jednak ogólnie nie zalecamy czytania streszczeń, ani też zbytniego polegania na Wikipedii.
 
 **Uwaga! Link może zawierać spoiler!**
 
-_For English version, see [this file](../git/../praca%20domowa/English.pdf)_.
+_For English version, see [this file](../git/../praca%20domowa/English.pdf)_.  
+![or this file](English.png)  
+![or this](English.jpg)  
 
-## 2. _Dramatis personae_  
+
+## 2. _Dramatis personae_
 
 * Kapturek
 * Babcia Kapturka
