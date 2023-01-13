@@ -21,13 +21,13 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 **Uwaga! Link może zawierać spoiler!**
 
-_For English version, see  [this file](../git/../praca%20domowa/English.pdf)  
-or even [this file](../git/../praca%20domowa/English.jpg)  
-or alternatively [this file](../git/../praca%20domowa/English2.jpg)  
+_For English version, see  [first file](../git/../praca%20domowa/English.pdf)  
+or even [second file](../git/../praca%20domowa/English.jpg)  
+or alternatively [third file](../git/../praca%20domowa/English2.jpg)  
 They look like the docs below:  
-![this file](../git/../praca%20domowa/English.pdf)  
-or even ![this file](../git/../praca%20domowa/English.jpg)  
-or alternatively ![this file](../git/../praca%20domowa/English2.jpg)  
+![fourth file](../git/../praca%20domowa/English.pdf)  
+or even ![fifth file](../git/../praca%20domowa/English.jpg)  
+or alternatively ![sixth file](../git/../praca%20domowa/English2.jpg)  
 ## 2. _Dramatis personae_
 
 * Kapturek
