@@ -23,12 +23,12 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 For English version, see ![first file](../git/../praca%20domowa/English.pdf)  
 or even ![second file](../git/../praca%20domowa/English.jpg)  
-or alternatively ![third file](../git/../praca%20domowa/English2.jpg)  
+or alternatively ![third file](../git/../praca%20domowa/English.png)  
 
 They look like the doc below:  
  ![fourth file](/English.pdf)  
 or even  ![fifth file](/English.jpg)   
-or alternatively ![sixth file](/English2.jpg)    
+or alternatively ![sixth file](/English.png)    
 
 ## 2. _Dramatis personae_
 
