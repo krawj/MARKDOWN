@@ -27,7 +27,8 @@ or alternatively [third file](../git/../praca%20domowa/English2.jpg)
 They look like the docs below:  
  ![fourth file](English.pdf)  
 or even  ![fifth file](English.jpg)   
-or alternatively ![sixth file](English2.jpg)  
+or alternatively ![sixth file](English2.jpg)    
+
 ## 2. _Dramatis personae_
 
 * Kapturek
