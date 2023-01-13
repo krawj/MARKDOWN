@@ -1,4 +1,4 @@
-Prepare these two items. Remove any outer packaging.
+1. Prepare these two items. Remove any outer packaging.
 A toothbrush –an oral hygiene tool used to clean the teeth. It consists of a plastic handle about 8 inches long. On the one end of it, a head of tightly clustered bristles is mounted. A toothbrush is usually made of plastic and comes in various colours.
 
 
