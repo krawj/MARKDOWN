@@ -2,9 +2,6 @@
 
 Spis treści   
 
-[1. Wprowadzenie](#1-wprowadzenie)
-[2. _Dramatis personae_](#2-dramatis-personae)
-[3. Miejsca akcji](#3-miejsca-akcji)
 - [1. Wprowadzenie](#1-wprowadzenie)
 - [2. _Dramatis personae_](#2-dramatis-personae)
 - [3. Miejsca akcji](#3-miejsca-akcji)
