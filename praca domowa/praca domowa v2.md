@@ -24,7 +24,7 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 _For English version, see  [this file](../git/../praca%20domowa/English.pdf)  
 or even [this file](../git/../praca%20domowa/English.jpg)  
 or alternatively [this file](../git/../praca%20domowa/English2.jpg)  
-They look like the docs below:
+They look like the docs below:  
 ![this file](../git/../praca%20domowa/English.pdf)  
 or even ![this file](../git/../praca%20domowa/English.jpg)  
 or alternatively ![this file](../git/../praca%20domowa/English2.jpg)  
