@@ -25,6 +25,11 @@ _For English version, see  [this file](../git/../praca%20domowa/English.pdf)
 or [this one](../git/../praca%20domowa/English.txt)  
 or even [this file](../git/../praca%20domowa/English.jpg)  
 or alternatively [this file](../git/../praca%20domowa/English2.jpg)  
+They look like below:
+![this file](../git/../praca%20domowa/English.pdf)  
+or ![this one](../git/../praca%20domowa/English.txt)  
+or even ![this file](../git/../praca%20domowa/English.jpg)  
+or alternatively ![this file](../git/../praca%20domowa/English2.jpg)  
 ## 2. _Dramatis personae_
 
 * Kapturek
