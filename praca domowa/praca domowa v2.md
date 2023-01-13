@@ -22,10 +22,9 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 **Uwaga! Link może zawierać spoiler!**
 
 _For English version, see  [this file](../git/../praca%20domowa/English.pdf)  
-![or this one](../git/../praca%20domowa/English.jpg). 
-![or this](../git/../praca%20domowa/English.text). 
-![or even this](../git/../praca%20domowa/English2.jpg). 
-
+or [this one](../git/../praca%20domowa/English.txt)  
+or even [this file](../git/../praca%20domowa/English.jpg)  
+or alternatively [this file](../git/../praca%20domowa/English2.jpg)  
 ## 2. _Dramatis personae_
 
 * Kapturek
