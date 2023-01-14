@@ -23,7 +23,7 @@ Machine Translation AD 2022 can model language really well. For a source text wr
 
 The MT from German to English quoted above demonstrates that DeepL can use an idiom, but it cannot know that the whole text is non-translatable (needs to be localized or transcreated). Let’s have a look at more serious examples from legal domain Polish to English.
 
-Polish to English – distorted meaning
+Polish  (this is the lanaguage spoken in Poland, Central Europe) to English – distorted meaning
 Source: Przeprowadzenie testu proporcjonalności naruszenia prawa własności przez sąd nie może zostać oderwane od prawidłowych ustaleń faktycznych dokonanych w rzetelnym postępowaniu, w którym strona może brać aktywny udział i korzystać ze wszystkich uprawnień procesowych wynikających z prawa do obrony.
 
 Machine translation: Conducting the proportionality test of a court’s infringement of a property right cannot be divorced from the correct findings of fact made in a fair proceeding in which a party can actively participate and exercise all procedural rights under the right of defence.
