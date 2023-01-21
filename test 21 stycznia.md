@@ -30,8 +30,10 @@ Markdown allows you to use backslash escapes to generate literal characters whic
 
 IMAGES  
 ![GitHub Logo](/images/logo.png)  
-Format:     ![Alt Text](url)
-LINKS  
+Format:    
+![Alt Text](url)
+LINKS
+
 http://github.com - automatic!  
 [GitHub](http://github.com)  
 
