@@ -86,9 +86,9 @@ EMOJ I
 To see a list of every image we support, check out www.emoji-cheat-sheet.com 
 ISSUE REFERENCES
 Any number that refers to an Issue or Pull Request will be automatically converted into a link.
-#1
-defunkt#1
-defunkt/github-flavored-markdown#1
-GitHub supports emoji!
+#1  
+defunkt#1  
+defunkt/github-flavored-markdown#1  
+GitHub supports emoji!  
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
