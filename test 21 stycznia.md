@@ -22,14 +22,15 @@ Ordered
 3. Item 3
 * Item 3a
 * Item 3b  
+
 BACKSLASH ESCAPES  
 \*literal asterisks\*  
 *literal asterisks*
 Markdown allows you to use backslash escapes to generate literal characters which would otherwise have special meaning in Markdown’s formating syntax.
 
 IMAGES  
-![GitHub Logo](/images/logo.png)
-Format:   ![Alt Text](url)
+![GitHub Logo](/images/logo.png)  
+Format:     ![Alt Text](url)
 LINKS  
 http://github.com - automatic!  
 [GitHub](http://github.com)  
