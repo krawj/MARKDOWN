@@ -76,6 +76,7 @@ Content cell 1 | Content cell 2
 Content cell 1 Content cell 2
 Content column | 1 Content column 2
 i coś tam | i coś jeszcze  
+
 GITHUB FLAVORED MARKDOWN  
 Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual. You can also @mention teams within an organization.  
 You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe | :
