@@ -27,14 +27,14 @@ BACKSLASH ESCAPES
 *literal asterisks*
 Markdown allows you to use backslash escapes to generate literal characters which would otherwise have special meaning in Markdown’s formating syntax.
 
-IMAGES
+IMAGES  
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-LINKS
+Format:   ![Alt Text](url)
+LINKS  
 http://github.com - automatic!  
 [GitHub](http://github.com)  
 
-BLOCKQUOTES
+BLOCKQUOTES  
 As Kanye West said:
 > We're living the future so
 > the present is our past.
