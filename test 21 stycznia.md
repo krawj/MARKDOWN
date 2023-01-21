@@ -2,13 +2,16 @@
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
+# Nagłówek jest w krzyżyku #  
+## W dwoch krzyżykach jest podnagłówek ##
+### A w trzech krzyżykach taki maly podtytulik.  
 
-EMPHASIS
-*This text will be italic*  
-_This will also be italic_  
-**This text will be bold**  
-__This will also be bold__  
+  
 *You **can** combine them*  
+*Gwiazdka da nam kursywę.*  
+_Underscore też da nam kursywę._  
+
+**Dwie gwiazdki dadzą pogrubienie czyli *wytluszczenie*.**  
 
 L I STS
 Unordered
@@ -22,16 +25,42 @@ Ordered
 3. Item 3
 * Item 3a
 * Item 3b  
+  1. To będzie lista numerowana
+  2. A to jej drugi punkt.
+  3. A to trzeci.  
+1. A jak zacząć nową listę?
+2. MOże tak?
+3. Chyba działa. 
+
+* A teraz lista wypunkktowana
+* I jej drugi podppunkt. 
+* A także trzeci.
+
+
 
 BACKSLASH ESCAPES  
 \*literal asterisks\*  
-*literal asterisks*
-Markdown allows you to use backslash escapes to generate literal characters which would otherwise have special meaning in Markdown’s formating syntax.
+*literal asterisks*  
+Markdown allows you to use backslash escapes to generate literal characters which would otherwise have special meaning in Markdown’s formating syntax.  
+Gdy chcemy prawdziwą gwiazdkę, 
+* to dodajemy ukośnik.  
+  \* Bo inaczej będzie lista wypunktowana.\*  
+
 
 IMAGES  
 ![GitHub Logo](/images/logo.png)  
 Format:    
-![Alt Text](url)
+![Alt Text](url)  
+A teraz będziemy wstawiać obrazki.   
+![tu będzie obrazek](./praca%20domowa/English.pdf)  
+![tu będzie drugi obrazek](./praca%20domowa/English.jpg)  
+![tu będzie trzeci obrazek](./praca%20domowa/English2.jpg)  
+![tu będzie czwarty obrazek](./praca%20domowa/English.pdf)  
+![tu będzie piąty obrazek](./praca%20domowa/Obraz2.jpg)  
+
+
+[tu będzie obrazek](English.pdf)  
+[tu będzie drugi obrazek](English.pdf)  
 LINKS
 
 http://github.com - automatic!  
