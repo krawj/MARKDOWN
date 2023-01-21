@@ -82,7 +82,7 @@ Typing an @ symbol, followed by a username, will notify that person to come and 
 You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe | :
 
 EMOJ I  
-To see a list of every image we support, check out www.emoji-cheat-sheet.com 
+To see a list of every image we support, check out www.emoji-cheat-sheet.com  
 ISSUE REFERENCES  
 Any number that refers to an Issue or Pull Request will be automatically converted into a link.  
 #1  
