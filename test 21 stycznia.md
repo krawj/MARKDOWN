@@ -69,23 +69,21 @@ with ``` to create a code block without the
 leading spaces. Add an optional language identifier
 and your code with get syntax highlighting.
 
-TABLES
+TABLES  
 First Header | Second Header
 ------------ | -------------
 Content cell 1 | Content cell 2  
-  
-Content column 1 | Content column 2
-First Header Second Header
 Content cell 1 Content cell 2
-Content column 1 Content column 2
+Content column | 1 Content column 2
+i coś tam | i coś jeszcze  
 GITHUB FLAVORED MARKDOWN  
 Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual. You can also @mention teams within an organization.  
 You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe | :
 
-EMOJ I
+EMOJ I  
 To see a list of every image we support, check out www.emoji-cheat-sheet.com 
-ISSUE REFERENCES
-Any number that refers to an Issue or Pull Request will be automatically converted into a link.
+ISSUE REFERENCES  
+Any number that refers to an Issue or Pull Request will be automatically converted into a link.  
 #1  
 defunkt#1  
 defunkt/github-flavored-markdown#1  
