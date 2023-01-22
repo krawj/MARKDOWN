@@ -7,20 +7,20 @@ Prepare these two items. Remove any outer packaging.
 The tube is filled with **toothpaste** – a soft cream-like substance used for oral hygiene.    
 ![This is toothpaste](./praca%20domowa/toothpaste.jfif)  
 
-1.	Take the tube of toothpaste in your left hand (if you are right-handed), the cap facing upwards. Place the cap between your thumb and the index finger of your right palm and turn it counterclockwise until loose.   
+1.	Take the tube of toothpaste in your dominant hand, the cap facing upwards. Place the cap between your thumb and the index finger of your other palm and turn it counterclockwise until loose.   
 2. Then remove it and put where you can easily find it (eg. on the edge of the washbasin or in your pocket).
 3. You may see a piece of foil placed over the opening. If there is one, tear it off and throw it away.
 4. Put down the tube on the washbasin.
-5. Take the toothbrush in your left palm, between the thumb and the index finger.
+5. Take the toothbrush in your non-dominant hand, between the thumb and the index finger.
 6. Now wet the toothbrush – place it under the tap and turn on water for a second. Turn off the water. Or rinse it in a cup of water.
-7. Take the tube in your right hand again.
+7. Take the tube in your dominant hand again.
 8. Hold the toothbrush horizontally, the head facing upwards.
 9. Tilt the tube of toothpaste in the right hand so that it is placed diagonally to the toothbrush, and move it towards the toothbrush. The opening of the toothpaste tube should be approximately 1 inch above the head of the toothbrush. 
 10. Now slowly and gently press the tube with the thumb and the index finger. It is the easiest to do it when you are holding the tube somewhere in the middle*).    
 ![How to apply](./praca%20domowa/apply.jpg)  
 11. A small amount of toothpaste will appear at the opening. Slide it along the brush - it will stick to the brush. The strain of toothpaste should be about 1 cm long.
 12. Put the head of the brush in your mouth.
-13. Now your left hand is free – take the cap, place it on the opening of the toothpaste tube and turn clockwise to close it. Do not turn too tight.
+13. Now your hand is free – take the cap, place it on the opening of the toothpaste tube and turn clockwise to close it. Do not turn too tight.
 14. Hold the toothbrush holder with your dominant hand. You can start brushing your teeth.  
     *) When you have some practice, you can squeeze the tube at the place further towards its closed end. In this way, you will use the toothpaste more economically.
 
