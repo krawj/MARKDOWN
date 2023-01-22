@@ -3,8 +3,8 @@ Prepare these two items. Remove any outer packaging.
 
 ![This is a tootbrush](./praca%20domowa/toothbrush.jpg)  
 
-**A tube of toothpaste** – a collapsible package in the form of a cylindrical, hollow tube with a round or oval profile, usually made of plastic. On one end of the tube body there is a round opening closed with a screw-on cap. The other end is permanently sealed.  
-The tube is filled with toothpaste – a soft cream-like substance used for oral hygiene.    
+**A tube of toothpaste** – a foldable package in the form of a cylindrical, hollow tube with a round or oval profile, usually made of plastic. On one end of the tube body there is a round opening closed with a screw-on cap. The other end is permanently sealed.  
+The tube is filled with **toothpaste** – a soft cream-like substance used for oral hygiene.    
 ![This is toothpaste](./praca%20domowa/toothpaste.jfif)  
 
 1.	Take the tube of toothpaste in your left hand (if you are right-handed), the cap facing upwards. Place the cap between your thumb and the index finger of your right palm and turn it counterclockwise until loose.   
