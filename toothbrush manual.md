@@ -1,5 +1,5 @@
 Prepare these two items. Remove any outer packaging.  
-**A toothbrush** – an oral hygiene tool used to clean the teeth. It consists of a plastic handle about 8 inches long. On the one end of it, a head of tightly clustered bristles is mounted. A toothbrush is usually made of plastic and comes in various colours.    
+**A toothbrush** – an oral hygiene tool used to clean the teeth. It consists of a plastic handle about 12 cm (8 inches) long. On the one end of it, a head of tightly clustered bristles is mounted. A toothbrush is usually made of plastic and comes in various colours.    
 
 ![This is a tootbrush](./praca%20domowa/toothbrush.jpg)  
 
