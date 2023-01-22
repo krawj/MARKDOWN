@@ -8,7 +8,7 @@ The tube is filled with **toothpaste** – a soft cream-like substance used for 
 ![This is toothpaste](./praca%20domowa/toothpaste.jfif)  
 
 1.	Take the tube of toothpaste in your left hand (if you are right-handed), the cap facing upwards. Place the cap between your thumb and the index finger of your right palm and turn it counterclockwise until loose.   
-2. Then remove it and put where you can easily find it (eg. on the edge of the washbasin).
+2. Then remove it and put where you can easily find it (eg. on the edge of the washbasin or in your pocket).
 3. You may see a piece of foil placed over the opening. If there is one, tear it off and throw it away.
 4. Put down the tube on the washbasin.
 5. Take the toothbrush in your left palm, between the thumb and the index finger.
