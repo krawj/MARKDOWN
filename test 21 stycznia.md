@@ -52,7 +52,7 @@ IMAGES
 Format:    
 ![Alt Text](url)  
 A teraz będziemy wstawiać obrazki.   
-![tu będzie obrazek](./praca%20domowa/English.pdf)  
+![tu będzie obrazek](./praca%20domowa/czerwonykapturek.png)  
 ![tu będzie drugi obrazek](./praca%20domowa/English.jpg)  
 ![tu będzie trzeci obrazek](./praca%20domowa/English2.jpg)  
 ![tu będzie czwarty obrazek](./praca%20domowa/English.pdf)  
