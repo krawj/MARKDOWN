@@ -52,15 +52,18 @@ IMAGES
 Format:    
 ![Alt Text](url)  
 A teraz będziemy wstawiać obrazki.   
-![tu będzie obrazek](./praca%20domowa/czerwonykapturek.png)  
-![tu będzie drugi obrazek](./praca%20domowa/English.jpg)  
-![tu będzie trzeci obrazek](./praca%20domowa/English2.jpg)  
-![tu będzie czwarty obrazek](./praca%20domowa/English.pdf)  
-![tu będzie piąty obrazek](./praca%20domowa/Obraz2.jpg)  
+![tu będzie obrazek](./praca%20domowa/apply.jpg)  
+![tu będzie drugi obrazek](./praca%20domowa/czerwonykapturek.png)  
+![tu będzie trzeci obrazek](./praca%20domowa/English.docx)  
+![tu będzie czwarty obrazek](./praca%20domowa/English.jpg)  
+![tu będzie piąty obrazek](./praca%20domowa/English.pdf)  
+![i jeszcze jeden](./praca%20domowa/English2.jpg)
 
 
-[tu będzie obrazek](English.pdf)  
-[tu będzie drugi obrazek](English.pdf)  
+A tu będą obrazki z innych źródeł
+
+[tu będzie obrazek](https://st.depositphotos.com/1000792/3933/v/950/depositphotos_39337247-stock-illustration-playful-tubby-kitten.jpg)  
+![to jest ten sam obrazek](https://st.depositphotos.com/1000792/3933/v/950/depositphotos_39337247-stock-illustration-playful-tubby-kitten.jpg)  
 LINKS
 
 http://github.com - automatic!  
