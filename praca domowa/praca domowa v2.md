@@ -2,14 +2,14 @@
 
 Spis treści   
 
-- [or alternatively third file](#or-alternatively-third-file)
-  - [2. _Dramatis personae_](#2-dramatis-personae)
-  - [3. Miejsca akcji](#3-miejsca-akcji)
-  - [4. Zawartość koszyczka](#4-zawartość-koszyczka)
-  - [5. Kapturek](#5-kapturek)
-  - [6. Koszt wiktuałów](#6-koszt-wiktuałów)
-  - [7. Zakończenie](#7-zakończenie)
-  - [8. Kod](#8-kod)
+- [1. Wprowadzenie](#1-wprowadzenie)
+- [2. _Dramatis personae_](#2-dramatis-personae)
+- [3. Miejsca akcji](#3-miejsca-akcji)
+- [4. Zawartość koszyczka](#4-zawartość-koszyczka)
+- [5. Kapturek](#5-kapturek)
+- [6. Koszt wiktuałów](#6-koszt-wiktuałów)
+- [7. Zakończenie](#7-zakończenie)
+- [8. Kod](#8-kod)
 
 
 
@@ -21,20 +21,14 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 **Uwaga! Link może zawierać spoiler!**
 
-<<<<<<< HEAD
-For English version, see [first file](./git/../praca%20domowa/English.pdf)  
-or even [second file](./git/../praca%20domowa/English.jpg)  
-or alternatively [third file](./git/../praca%20domowa/English2.jpg)  
-=======
-For English version, see ![first file](../git/../praca%20domowa/English.pdf)  
-or even ![second file](../git/../praca%20domowa/English.jpg)  
-or alternatively ![third file](../git/../praca%20domowa/English.png)  
+For English version, see ![first file](./English.jpg)  
+or even ![second file](./English.jpg)  
+or alternatively ![third file](./English2.jpg)  
 
->>>>>>> b881c57c59f3740304a246bdaa46bf7b110cbfab
 They look like the doc below:  
- ![fourth file](/English.pdf)  
-or even  ![fifth file](/English.jpg)   
-or alternatively ![sixth file](/English.png)    
+ [fourth file](/English.pdf)  
+or even  [fifth file](/English.jpg)   
+or alternatively [sixth file](/English.png)    
 
 ## 2. _Dramatis personae_
 
