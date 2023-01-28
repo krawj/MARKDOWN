@@ -22,13 +22,13 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 **Uwaga! Link może zawierać spoiler!**
 
 For English version, see ![first file](./English.jpg)  
-or even ![second file](./English.jpg)  
+or even ![second file](./English.pdf)  
 or alternatively ![third file](./English2.jpg)  
 
 They look like the doc below:  
- [fourth file](/English.pdf)  
-or even  [fifth file](/English.jpg)   
-or alternatively [sixth file](/English.png)    
+ [fourth file](/English.jpg)  
+or even  [fifth file](/English.pdf)   
+or alternatively [sixth file](/English2.jpg)    
 
 ## 2. _Dramatis personae_
 
