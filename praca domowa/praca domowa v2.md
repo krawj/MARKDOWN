@@ -21,23 +21,14 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 **Uwaga! Link może zawierać spoiler!**
 
-For English version, see ![first file](./English.jpg)  
-or even ![second file](./English.pdf)  
-<<<<<<< HEAD
-or alternatively ![third file](./English2.jpg)  
+For English version, see the jpg file ![first file](./English.jpg)  
+or the pdf file ![second file](./English.pdf)  
+or the small jpg file ![third file](./English2.jpg)  
 
-They look like the doc below:  
- [fourth file](/English.jpg)  
-or even  [fifth file](/English.pdf)   
-or alternatively [sixth file](/English2.jpg)    
-=======
-or alternatively ![third file](./English.png)  
-
-They look like the doc below:  
- [fourth file](./English.pdf)  
-or even  [fifth file](./English.jpg)   
-or alternatively [sixth file](./English.png)    
->>>>>>> 857eb9a84762dc6b511c3304033cffd5b9945499
+These are the same files, but they open in a new window:  
+ in jpg format [the fourth file](/English.jpg)  
+in pdf  [fifth file](/English.pdf)   
+or still another jpg [sixth file](/English2.jpg)    
 
 ## 2. _Dramatis personae_
 
