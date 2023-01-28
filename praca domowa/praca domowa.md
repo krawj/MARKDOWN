@@ -21,13 +21,47 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 **Uwaga! Link może zawierać spoiler!**
 
-_For English version, see  
+_For English version, see:_
 
-![_this file_](../git/../praca%20domowa/English.pdf). 
+![tu będzie obrazek](./English.jpg)  
 
-![_or this one_](../git/../praca%20domowa/English.jpg). 
-![_or this_](../git/../praca%20domowa/English.text). 
-![_or even this_](../git/../praca%20domowa/English2.jpg). 
+
+
+
+
+
+![tu będzie drugi obrazek](./English.pdf)  
+
+
+
+
+
+
+
+
+
+
+
+
+![tu będzie trzeci obrazek](./English2.jpg)  
+
+
+
+![tu będzie czwarty obrazek](./praca%20domowa/English.pdf)  
+
+
+
+
+
+![i jeszcze piąty](./praca%20domowa/English2.jpg)
+
+
+
+
+
+
+
+
 
 ## 2. _Dramatis personae_
 
