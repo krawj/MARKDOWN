@@ -22,8 +22,8 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 **Uwaga! Link może zawierać spoiler!**
 
 For English version, see ![first file](./English.jpg)  
-or even ![second file](./English.jpg)  
-or alternatively ![third file](./English2.jpg)  
+or even ![second file](./English.pdf)  
+or alternatively ![third file](./English.png)  
 
 They look like the doc below:  
  [fourth file](./English.pdf)  
