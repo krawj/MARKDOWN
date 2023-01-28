@@ -26,9 +26,9 @@ or even ![second file](./English.jpg)
 or alternatively ![third file](./English2.jpg)  
 
 They look like the doc below:  
- [fourth file](/English.pdf)  
-or even  [fifth file](/English.jpg)   
-or alternatively [sixth file](/English.png)    
+ [fourth file](./English.pdf)  
+or even  [fifth file](./English.jpg)   
+or alternatively [sixth file](./English.png)    
 
 ## 2. _Dramatis personae_
 
