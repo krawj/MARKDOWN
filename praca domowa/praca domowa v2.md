@@ -23,12 +23,21 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 For English version, see ![first file](./English.jpg)  
 or even ![second file](./English.pdf)  
+<<<<<<< HEAD
 or alternatively ![third file](./English2.jpg)  
 
 They look like the doc below:  
  [fourth file](/English.jpg)  
 or even  [fifth file](/English.pdf)   
 or alternatively [sixth file](/English2.jpg)    
+=======
+or alternatively ![third file](./English.png)  
+
+They look like the doc below:  
+ [fourth file](./English.pdf)  
+or even  [fifth file](./English.jpg)   
+or alternatively [sixth file](./English.png)    
+>>>>>>> 857eb9a84762dc6b511c3304033cffd5b9945499
 
 ## 2. _Dramatis personae_
 
