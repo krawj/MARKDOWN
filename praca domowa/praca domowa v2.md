@@ -24,11 +24,13 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 For English version, see ![first file](../images/English.jpg)  
 or even ![second file](../images/English.pdf)  
 or alternatively ![third file](../images/English2.jpg)  
+i jeszcze jeden pdf ! [aa](../images/praca%20przyk.pdf)
 
 They look like the doc below:  
  [fourth file](../images/English.jpg)  
 or even  [fifth file](../images/English.pdf)   
 or alternatively [sixth file](../images/English2.jpg)    
+
 
 
 ## 2. _Dramatis personae_
