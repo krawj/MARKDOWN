@@ -1,7 +1,5 @@
-jeszcze jedna próba
-![obraz](./images/skier.pdf)    
-![dokumencik](./images/skier.pdf)
-
-![i coś tam](./images/info.pdf)  
-![aa](./images/apply.jpg)  
-![bb](./images/brush.pdf)  
+![AA](./images/brush.pdf)  
+![BB](./images/toothbrush.jpg)  
+![CC](../Dropbox/aaa%20bilety%2029%20stycznia.pdf)
+![dd](../Dropbox/automat%20do%20chleba.pdf)
+![EE](../)
