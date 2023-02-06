@@ -1,4 +1,6 @@
 jeszcze jedna próba
-![obraz](../images/skierowanie%20PROF%2040.pdf)  
+![obraz](./images/skier.pdf)    
+![dokumencik](./images/skier.pdf)
 
-![dokumencik](../images/skierowanie%20PROF%2040.pdf)
+![i coś tam](./images/info.pdf)  
+![aa](./images/apply.jpg)  
