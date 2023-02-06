@@ -54,7 +54,7 @@ A oto, co Kapturek miał w koszyczku:
 
 ## 5. Kapturek  
 A oto jak wyglada Kapturek. <sup>1.</sup>
-![kapturek](czerwonykapturek.png "To jest Czerwony Kapturek")  
+![kapturek](../images/czerwonykapturek.png "To jest Czerwony Kapturek")  
 
 <sup>1.</sup> Źródło: Internet, oczywiście.  `Tu próbowałam zrobić przypis dolny, ale to chyba jednak nie tak się robi.`
 
