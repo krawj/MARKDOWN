@@ -1,5 +1,5 @@
 ![AA](./images/brush.pdf)  
 ![BB](./images/toothbrush.jpg)  
-![CC](../Dropbox/aaa%20bilety%2029%20stycznia.pdf)
-![dd](../Dropbox/automat%20do%20chleba.pdf)
-![EE](../)
+![CC](./images/grafik.pdf)
+![dd](./images/kapturek.pdf)
+![EE](./images/czerwonykapturek.png)
