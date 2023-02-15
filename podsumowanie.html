@@ -1,0 +1,119 @@
+<!--
+Przygotować stronę wizytówkę. Wytyczne dla każdej sekcji opisano w miejscu w którym dana sekcja ma się znaleźć.
+-->
+
+<!doctype html>
+<html lang="pl">
+
+<head>
+    <meta charset="utf-8">
+    <title>CV</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&amp;subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+
+    </style>
+</head>
+
+<body>
+<div id="me">
+    <h1>Agnieszka Fabisiak</h1>
+
+    <img src="./images/avatar.jpg" width="100" height="100">
+    <alt>Tu będzie lepsze zdjęcie, gdy będę umiała zmieniać rozdzielczość </alt>
+<div id="content">
+
+  <H1>Tłumacz z 20-letnim doświadczeniem</H1>
+  Ponoiżej zrobiłam to, co umiem. <br>Umiem zrobić tabelę, ale bez obramowania. 
+  Chciałam więc mieć jedną "gołą", a drugą z obramowaniem. W tym celu przekleiłam styl z ćwiczeń. W efekcie <b>obie </b>są z ramkami.
+  <br>
+  Formularz zrobiłam na podstawie materiałów.
+  
+  <div id="technologies">
+    <h2>Skills</h2>
+
+    Znajomość nastepujących narzędzi CAT:
+    <ul>
+        <li>memoQ</li>
+        <li>Trados</li>
+        <li>Wordfast</li>
+        <li>Memsource/Phrase</li>
+    </ul>
+            </div>
+
+            <div id="experience">
+                <h2>Experience</h2>
+
+    <table id="experience">
+
+       <tr><th>Employer</th><th>When employed</th><th>Position</th></tr> 
+       <tr><td>AAA</td><td>2000-2001</td><td>Junior</td></tr>
+       <tr><td>BBB</td><td>2002-2004</td><td>Senior</td></tr>
+       <tr><td>CCC</td><td>2005-2008</td><td>Expert</td></tr>
+    </table><br>
+    <table id="experience">
+
+        <tr><th>Employer</th><th>When employed</th><th>Position</th></tr> 
+        <tr><td>AAA</td><td>2000-2001</td><td>Junior</td></tr>
+        <tr><td>BBB</td><td>2002-2004</td><td>Senior</td></tr>
+        <tr><td>CCC</td><td>2005-2008</td><td>Expert</td></tr>
+     </table>
+    <style>
+        table {
+            border-collapse: collapse;   }
+        
+        table, td, th {
+            /*border: 1px solid black;*/
+            padding: 5px;
+        }
+        
+        td, th {
+            border: 1px solid black;
+        }
+    </style>
+
+
+    
+
+    <div id="reccomendations">
+       <h2>References</h2>
+      <blockquote>
+            Godny zaufania zleceniobiorca!
+            <footer>
+                - <a href="http://innymislowy.pl/wp-content/uploads/2020/02/referencje-CC2020.jpeg">
+                referencje od klienta</a>
+            </footer>
+      </blockquote>
+       
+    </div>
+
+    <div id="contact">
+       <h2>Contact me</h2> 
+
+       <form action="login.php" method="post">
+         <label>Podaj imię: <input type="text"></label> <br>
+         <label>Podaj swój email: <input type="text"> placeholder="Wpisz poprawny adres e-mail"</label> <br>
+         <label>Napisz wiadomość: <input type="text"></label> <br>
+         <input type="checkbox" id="zazn">
+         <label for="zazn">Wyrażam zgodę na  przesyłanie materiałów reklamowych </label> <br>
+         <button>Wyślij</button> 
+
+        </form>
+    </div>
+
+    <div id="links">
+       <h2>Links</h2> 
+       <a href="https://www.innymislowy.pl">Moja strona </a>  <alt>To jest link do mojej strony</alt> <br>
+
+       <a href="https://innymislowy.pl/referencje/">Referencje</a> <alt>A tu jest link do referencji</alt><br>
+       
+       <a href="https://innymislowy.pl/kontakt/">Kontakt</a> <alt>A to - do zakładki Kontakt</alt>
+      
+    
+    </div>
+</div>
+</body>
+
+</html>
