@@ -13,7 +13,7 @@ Spis treści
 - [8. Kod  - nagłówek zaktualizowany](#8-kod----nagłówek-zaktualizowany)
 
 
-## 1. Wprowadzenie i aktualizacja spisu treści  i czwarta aktualizacja
+## 1. Wprowadzenie i aktualizacja spisu treści  i piąta aktualizacja
 
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkająca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
 Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie [4](#4), bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu. 
