@@ -2,14 +2,14 @@
 
 Spis treści   
 
-- [1. Wprowadzenie](#1-wprowadzenie)
-- [2. _Dramatis personae_](#2-dramatis-personae)
-- [3. Miejsca akcji](#3-miejsca-akcji)
-- [4. Zawartość koszyczka](#4-zawartość-koszyczka)
-- [5. Kapturek](#5-kapturek)
-- [6. Koszt wiktuałów](#6-koszt-wiktuałów)
-- [7. Zakończenie](#7-zakończenie)
-- [8. Kod](#8-kod)
+ [1. Wprowadzenie](#1-wprowadzenie)  
+ [2. _Dramatis personae_](#2-dramatis-personae)  
+ [3. Miejsca akcji](#3-miejsca-akcji)  
+ [4. Zawartość koszyczka](#4-zawartość-koszyczka)  
+ [5. Kapturek](#5-kapturek)  
+ [6. Koszt wiktuałów](#6-koszt-wiktuałów)  
+ [7. Zakończenie](#7-zakończenie)  
+ [8. Kod](#8-kod)  
 
 
 
