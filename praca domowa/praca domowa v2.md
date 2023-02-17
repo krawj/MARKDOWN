@@ -3,16 +3,17 @@
 Spis treści   
 
 
- [1. Wprowadzenie](#1-wprowadzenie)   
- [2. _Dramatis personae_, czyli osoby](#2-dramatis-personae-czyli-osoby)  
- [3. Miejsca akcji - gdzie się to dzieje i po co](#3-miejsca-akcji---gdzie-się-to-dzieje-i-po-co)  
- [4. Zawartość koszyczka czyli...](#4-zawartość-koszyczka-czyli)  
- [5. Kapturek](#5-kapturek)  
- [6. Koszt wiktuałów](#6-koszt-wiktuałów)  
- [7. Zakończenie](#7-zakończenie)  
- [8. Kod  - nagłówek zaktualizowany](#8-kod----nagłówek-zaktualizowany)  
+- [1. Wprowadzenie i aktualizacja spisu treści  i czwarta aktualizacja](#1-wprowadzenie-i-aktualizacja-spisu-treści--i-czwarta-aktualizacja)
+- [2. _Dramatis personae_, czyli osoby dramatu](#2-dramatis-personae-czyli-osoby-dramatu)
+- [3. Miejsca akcji](#3-miejsca-akcji)
+- [4. Zawartość koszyczka czyli...](#4-zawartość-koszyczka-czyli)
+- [5. Kapturek](#5-kapturek)
+- [6. Koszt wiktuałów](#6-koszt-wiktuałów)
+- [7. Zakończenie](#7-zakończenie)
+- [8. Kod  - nagłówek zaktualizowany](#8-kod----nagłówek-zaktualizowany)
 
-## 1. Wprowadzenie i aktualizacja spisu treści
+
+## 1. Wprowadzenie i aktualizacja spisu treści  i czwarta aktualizacja
 
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkająca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
 Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie [4](#4), bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu. 
