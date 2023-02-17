@@ -1,15 +1,14 @@
 # Co każdy powinien wiedzieć o Czerwonym Kapturku<!-- omit in toc -->  
 
 Spis treści   
-
- [1. Wprowadzenie](#1-wprowadzenie)  
- [2. _Dramatis personae_](#2-dramatis-personae)  
- [3. Miejsca akcji](#3-miejsca-akcji)  
- [4. Zawartość koszyczka](#4-zawartość-koszyczka)  
- [5. Kapturek](#5-kapturek)  
- [6. Koszt wiktuałów](#6-koszt-wiktuałów)  
- [7. Zakończenie](#7-zakończenie)  
- [8. Kod](#8-kod)  
+[1. Wprowadzenie](#1-wprowadzenie)  
+[2. _Dramatis personae_](#2-dramatis-personae)  
+[3. Miejsca akcji](#3-miejsca-akcji)  
+[4. Zawartość koszyczka](#4-zawartość-koszyczka)  
+[5. Kapturek](#5-kapturek)  
+[6. Koszt wiktuałów](#6-koszt-wiktuałów)  
+[7. Zakończenie](#7-zakończenie)  
+[8. Kod  - nagłóek zaktualizowany](#8-kod----nagłóek-zaktualizowany)  
 
 
 
@@ -21,18 +20,18 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 **Uwaga! Link może zawierać spoiler!**
 
-For English version, see ![test1](../images/test.docx)  
-For English version, see ![test2](../images/test.jpg)  
-For English version, see ![test3](../images/test.pdf)  
-For English version, see ![test4](../images//test.svg)  
-For English version, see ![test5](../images/test.tiff)  
-For English version, see ![test6](../images/test2.tiff)  
-Test pliku tiff [test](../images/test%20TIFF_1MB.tiff)
+For English version, see ![test1](../images/test.docx)  Word to nie działa
+For English version, see ![test2](../images/test.jpg)  jpg to działa
+For English version, see ![test3](../images/test.pdf)  pdf to nie działa
+For English version, see ![test4](../images//test.svg) svg to działa
+For English version, see ![test5](../images/test.tiff)  tiff nie działa
+For English version, see ![test6](../images/test2.tiff)  zmniejszony tiff też nie działa
+Test pliku tiff [test](../images/test%20TIFF_1MB.tiff) tiff z internetu nie działa
  
 
 
 
-## 2. _Dramatis personae_
+## 2. _Dramatis personae_, czyli osooby
 
 * Kapturek
 * Babcia Kapturka
@@ -88,7 +87,7 @@ widzę i opisuję, bo tęsknię po Tobie."
 >>  
 
 I to by było na tyle.
-## 8. Kod  
+## 8. Kod  - nagłóek zaktualizowany
 <!-- Example of a block of code -->  
 `Został jeszcze kod, ale tu na razie mam składnię i nie wiem, czym ją wypełnić. Na razie używam tego jako podświetlenia`.  
 
