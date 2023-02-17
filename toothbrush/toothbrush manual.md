@@ -14,7 +14,9 @@ The tube is filled with **toothpaste** – a soft cream-like substance used for 
 3. You may see a piece of foil placed over the opening. If there is one, tear it off and throw it away.
 4. Put down the tube on the washbasin.
 5. Take the toothbrush in your non-dominant hand, between the thumb and the index finger.
-6. Now wet the toothbrush – place it under the tap and turn on water for a second. Turn off the water. Or rinse it in a cup of water.
+6. Now wet the toothbrush in one of the following ways:
+Place the toothbrush under the tap and turn on water for a second. Turn off the water.
+Rinse the toothbrush in a cup of water.
 7. Take the tube in your dominant hand again.
 8. Hold the toothbrush horizontally, the head facing upwards.
 9. Tilt the tube of toothpaste in the right hand so that it is placed diagonally to the toothbrush, and move it towards the toothbrush. The opening of the toothpaste tube should be approximately 1 inch above the head of the toothbrush. 
