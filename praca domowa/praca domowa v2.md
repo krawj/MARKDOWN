@@ -1,18 +1,18 @@
 # Co każdy powinien wiedzieć o Czerwonym Kapturku<!-- omit in toc -->  
 
 Spis treści   
-[1. Wprowadzenie](#1-wprowadzenie)  
-[2. _Dramatis personae_](#2-dramatis-personae)  
-[3. Miejsca akcji](#3-miejsca-akcji)  
-[4. Zawartość koszyczka](#4-zawartość-koszyczka)  
-[5. Kapturek](#5-kapturek)  
-[6. Koszt wiktuałów](#6-koszt-wiktuałów)  
-[7. Zakończenie](#7-zakończenie)  
-[8. Kod  - nagłóek zaktualizowany](#8-kod----nagłóek-zaktualizowany)  
 
 
+ [1. Wprowadzenie](#1-wprowadzenie)   
+ [2. _Dramatis personae_, czyli osoby](#2-dramatis-personae-czyli-osoby)  
+ [3. Miejsca akcji - gdzie się to dzieje i po co](#3-miejsca-akcji---gdzie-się-to-dzieje-i-po-co)  
+ [4. Zawartość koszyczka czyli...](#4-zawartość-koszyczka-czyli)  
+ [5. Kapturek](#5-kapturek)  
+ [6. Koszt wiktuałów](#6-koszt-wiktuałów)  
+ [7. Zakończenie](#7-zakończenie)  
+ [8. Kod  - nagłówek zaktualizowany](#8-kod----nagłówek-zaktualizowany)  
 
-## 1. Wprowadzenie  
+## 1. Wprowadzenie i aktualizacja spisu treści
 
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkająca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
 Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie [4](#4), bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu. 
@@ -31,7 +31,7 @@ Test pliku tiff [test](../images/test%20TIFF_1MB.tiff) tiff z internetu nie dzia
 
 
 
-## 2. _Dramatis personae_, czyli osooby
+## 2. _Dramatis personae_, czyli osoby dramatu
 
 * Kapturek
 * Babcia Kapturka
@@ -48,7 +48,7 @@ Test pliku tiff [test](../images/test%20TIFF_1MB.tiff) tiff z internetu nie dzia
 3. Chatka Babci
 4. Dom Leśniczego
 
-## <a name="4"></a>4. Zawartość koszyczka  
+## <a name="4"></a>4. Zawartość koszyczka czyli...  
 A oto, co Kapturek miał w koszyczku:  
 | Lp. | Produkt | Kolor    | Szt. |
 | --- | ------- | -------- | ---- |
@@ -87,7 +87,7 @@ widzę i opisuję, bo tęsknię po Tobie."
 >>  
 
 I to by było na tyle.
-## 8. Kod  - nagłóek zaktualizowany
+## 8. Kod  - nagłówek zaktualizowany
 <!-- Example of a block of code -->  
 `Został jeszcze kod, ale tu na razie mam składnię i nie wiem, czym ją wypełnić. Na razie używam tego jako podświetlenia`.  
 
