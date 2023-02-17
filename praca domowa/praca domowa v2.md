@@ -26,8 +26,8 @@ For English version, see ![test2](../images/test.jpg)
 For English version, see ![test3](../images/test.pdf)  
 For English version, see ![test4](../images//test.svg)  
 For English version, see ![test5](../images/test.tiff)  
-For English version, see ![test6](../images/test2.jpg)  
-For English version, see ![test7](../images/test2.pdf)  
+For English version, see ![test6](../images/test2.tiff)  
+
  
 
 
