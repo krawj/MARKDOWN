@@ -3,17 +3,18 @@
 Spis treści   
 
 
-[1. Wprowadzenie i aktualizacja spisu treści  i czwarta aktualizacja](#1-wprowadzenie-i-aktualizacja-spisu-treści--i-czwarta-aktualizacja)  
-[2. _Dramatis personae_, czyli osoby dramatu](#2-dramatis-personae-czyli-osoby-dramatu)  
-[3. Miejsca akcji](#3-miejsca-akcji)  
-- [4. Zawartość koszyczka czyli...](#4-zawartość-koszyczka-czyli)
+- [1. Wprowadzenie i aktualizacja spisu treści - dwunasta aktualizacja](#1-wprowadzenie-i-aktualizacja-spisu-treści---dwunasta-aktualizacja)
+- [2. \_Dramatis personae](#2-_dramatis-personae)
+- [3. Miejsca akcji](#3-miejsca-akcji)
+- [4. Zawartość koszyczka](#4-zawartość-koszyczka)
 - [5. Kapturek](#5-kapturek)
 - [6. Koszt wiktuałów](#6-koszt-wiktuałów)
 - [7. Zakończenie](#7-zakończenie)
-- [8. Kod  - nagłówek zaktualizowany](#8-kod----nagłówek-zaktualizowany)
+- [8. Kod](#8-kod)
 
 
-## 1. Wprowadzenie i aktualizacja spisu treści  i szósta aktualizacja
+
+## 1. Wprowadzenie i aktualizacja spisu treści - dwunasta aktualizacja
 
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkająca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
 Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie [4](#4), bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu. 
@@ -32,7 +33,7 @@ Test pliku tiff [test](../images/test%20TIFF_1MB.tiff) tiff z internetu nie dzia
 
 
 
-## 2. _Dramatis personae_, czyli osoby dramatu
+## 2. _Dramatis personae
 
 * Kapturek
 * Babcia Kapturka
@@ -41,15 +42,15 @@ Test pliku tiff [test](../images/test%20TIFF_1MB.tiff) tiff z internetu nie dzia
 
 ## 3. Miejsca akcji
 1. Domostwo Kapturka        
-    * Kuchnia 
-    * Spiżarnia
-    * Piwniczka z winem
-    * Sad
+	* Kuchnia 
+	* Spiżarnia
+	* Piwniczka z winem
+	* Sad
 2. Ciemny las
 3. Chatka Babci
 4. Dom Leśniczego
 
-## <a name="4"></a>4. Zawartość koszyczka czyli...  
+## <a name="4"></a>4. Zawartość koszyczka
 A oto, co Kapturek miał w koszyczku:  
 | Lp. | Produkt | Kolor    | Szt. |
 | --- | ------- | -------- | ---- |
@@ -88,7 +89,7 @@ widzę i opisuję, bo tęsknię po Tobie."
 >>  
 
 I to by było na tyle.
-## 8. Kod  - nagłówek zaktualizowany
+## 8. Kod
 <!-- Example of a block of code -->  
 `Został jeszcze kod, ale tu na razie mam składnię i nie wiem, czym ją wypełnić. Na razie używam tego jako podświetlenia`.  
 
