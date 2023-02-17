@@ -3,9 +3,9 @@
 Spis treści   
 
 
-- [1. Wprowadzenie i aktualizacja spisu treści  i czwarta aktualizacja](#1-wprowadzenie-i-aktualizacja-spisu-treści--i-czwarta-aktualizacja)
-- [2. _Dramatis personae_, czyli osoby dramatu](#2-dramatis-personae-czyli-osoby-dramatu)
-- [3. Miejsca akcji](#3-miejsca-akcji)
+[1. Wprowadzenie i aktualizacja spisu treści  i czwarta aktualizacja](#1-wprowadzenie-i-aktualizacja-spisu-treści--i-czwarta-aktualizacja)
+[2. _Dramatis personae_, czyli osoby dramatu](#2-dramatis-personae-czyli-osoby-dramatu)
+[3. Miejsca akcji](#3-miejsca-akcji)
 - [4. Zawartość koszyczka czyli...](#4-zawartość-koszyczka-czyli)
 - [5. Kapturek](#5-kapturek)
 - [6. Koszt wiktuałów](#6-koszt-wiktuałów)
