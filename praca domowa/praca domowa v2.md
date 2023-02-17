@@ -21,13 +21,13 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 **Uwaga! Link może zawierać spoiler!**
 
-For English version, see ![test1](../images/test.docx)  Word to nie działa
-For English version, see ![test2](../images/test.jpg)  jpg to działa
-For English version, see ![test3](../images/test.pdf)  pdf to nie działa
-For English version, see ![test4](../images//test.svg) svg to działa
-For English version, see ![test5](../images/test.tiff)  tiff nie działa
-For English version, see ![test6](../images/test2.tiff)  zmniejszony tiff też nie działa
-Test pliku tiff [test](../images/test%20TIFF_1MB.tiff) tiff z internetu nie działa
+For English version, see ![test1](../images/test.docx)  Word  nie działa  
+For English version, see ![test2](../images/test.jpg)  jpg  działa  
+For English version, see ![test3](../images/test.pdf)  pdf  nie działa  
+For English version, see ![test4](../images//test.svg) svg  działa  
+For English version, see ![test5](../images/test.tiff)  tiff nie działa  
+For English version, see ![test6](../images/test2.tiff)  zmniejszony tiff też nie działa  
+Test pliku tiff [test](../images/test%20TIFF_1MB.tiff) tiff z internetu nie działa  
  
 
 
