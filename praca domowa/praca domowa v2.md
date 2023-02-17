@@ -21,8 +21,16 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 **Uwaga! Link może zawierać spoiler!**
 
-For English version, see ![file](../images/English.jpg)  
-or alternatively ![file](../images/English2.jpg)  
+For English version, see ![test1](../images/test.docx)  
+For English version, see ![test2](../images/test.jpg)  
+For English version, see ![test3](../images/test.pdf)  
+For English version, see ![test4](../images//test.svg)  
+For English version, see ![test5](../images/test.tiff)  
+For English version, see ![test6](../images/test2.jpg)  
+For English version, see ![test7](../images/test2.pdf)  
+ 
+
+
 
 ## 2. _Dramatis personae_
 
