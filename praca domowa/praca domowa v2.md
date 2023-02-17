@@ -27,7 +27,7 @@ For English version, see ![test3](../images/test.pdf)
 For English version, see ![test4](../images//test.svg)  
 For English version, see ![test5](../images/test.tiff)  
 For English version, see ![test6](../images/test2.tiff)  
-
+Test pliku tiff [test](../images/test%20TIFF_1MB.tiff)
  
 
 
