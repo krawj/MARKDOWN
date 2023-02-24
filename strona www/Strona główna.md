@@ -69,9 +69,9 @@ Wśród moich klientów są:
 3. Clifford Chance
 4. Get It Sp. z o.o. - ![referencje](referencje_getit.jpg)
 5. King Sturge 
-6. Kontekst s.c. - ![referencje](referencje_kontekst.jpg)
-7. Lacrosse Language Consultancy Sp. z o.o. Sp. k.
-8. Professional Business Law Medicine - ![referencje](referencje_professional.jpg)
+6. Kontekst s.x.
+7. Lacrosse Language Consultancy Sp. z o.o. Sp. k. - ![referencje](referencje_lls.jpg)
+8. Professional Business Law Medicine 
 9. Skrivanek
 10. ZenithOptimedia Sp. z o.o. - ![referencje](referencje_zenith.jpg)
 
