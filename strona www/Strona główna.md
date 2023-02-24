@@ -67,13 +67,13 @@ Wśród moich klientów są:
 1. A.T. Kearney Sp. z o.o.
 2. Aviva Sp. z o.o.
 3. Clifford Chance
-4. Get It Sp. z o.o. - referencje
+4. Get It Sp. z o.o. - ![referencje](referencje_getit.jpg)
 5. King Sturge 
-6. Kontekst s.c. - referencje
+6. Kontekst s.c. - ![referencje](referencje_kontekst.jpg)
 7. Lacrosse Language Consultancy Sp. z o.o. Sp. k.
-8. Professional Business Law Medicine - referencje
+8. Professional Business Law Medicine - ![referencje](referencje_professional.jpg)
 9. Skrivanek
-10. ZenithOptimedia Sp. z o.o. - referencje
+10. ZenithOptimedia Sp. z o.o. - ![referencje](referencje_zenith.jpg)
 
 # Kontakt #
 Agnieszka Fabisiak, Tłumacz przysięgły języka angielskiego
