@@ -2,7 +2,7 @@
 # Oferta #
 Oferuję tłumaczenia w parze językowej polski/angielski:
 *	pisemne i ustne, 
-*	zwykłe i uwierzytelnione (tzw. przysięgłe).
+*	zwykłe i uwierzytelnione (tzw. poświadczone).
 
 Ponieważ zajmuję się wyłącznie tłumaczeniami, jestem w stanie podjąć się zleceń ekspresowych, z krótkim terminem realizacji, w tym wymagających pracy w godzinach nocnych.  
 Korzystam z oprogramowania wspomagającego pracę tłumacza (Wordfast, Trados, memoQ), co zapewnia wysoką wydajność i zachowanie spójnej terminologii.  
