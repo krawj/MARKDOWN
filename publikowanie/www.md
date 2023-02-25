@@ -1,6 +1,6 @@
 
 # Oferta #
-![logo](logo%20gotowe%20ramka.GIF)  
+
 Oferuję tłumaczenia w parze językowej polski/angielski:
 *	pisemne i ustne, 
 *	zwykłe i uwierzytelnione (tzw. poświadczone).
@@ -68,13 +68,13 @@ Wśród moich klientów są:
 1. A.T. Kearney Sp. z o.o.
 2. Aviva Sp. z o.o.
 3. Clifford Chance
-4. Get It Sp. z o.o. - ![referencje](referencje_getit.jpg)
+4. Get It Sp. z o.o. 
 5. King Sturge 
 6. Kontekst s.x.
-7. Lacrosse Language Consultancy Sp. z o.o. Sp. k. - ![referencje](referencje_lls.jpg)
+7. Lacrosse Language Consultancy Sp. z o.o. Sp. k. - 
 8. Professional Business Law Medicine 
 9. Skrivanek
-10. ZenithOptimedia Sp. z o.o. - ![referencje](referencje_zenith.jpg)
+10. ZenithOptimedia Sp. z o.o.
 
 # Kontakt #
 Agnieszka Fabisiak, Tłumacz przysięgły języka angielskiego

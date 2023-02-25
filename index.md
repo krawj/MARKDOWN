@@ -1,1 +1,1 @@
-To jest strona i plik index [to](www.md)
+To jest strona i plik index [to](/publikowanie/www.md)
