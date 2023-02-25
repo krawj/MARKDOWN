@@ -1,1 +1,1 @@
-To jest strona i plik index
+To jest strona i plik index [to tu](../)
