@@ -1,5 +1,0 @@
-![AA](./images/brush.pdf)  
-![BB](./images/toothbrush.jpg)  
-![CC](./images/grafik.pdf)
-![dd](./images/kapturek.pdf)
-![EE](./images/czerwonykapturek.png)

@@ -1,5 +1,0 @@
-![obrazek](../images/toothbrush.jpg)  
-![drugi](../images/toothpaste.jfif)         
-![trzeci](../images/apply.jpg)  
-![czwarty](../images/czerwonykapturek.png)  
-![piąty](../images/toothbrush.jpg)  
