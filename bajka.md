@@ -3,8 +3,8 @@
 Spis treści   
 
 
-- [1. Wprowadzenie i aktualizacja spisu treści - dwunasta aktualizacja](#1-wprowadzenie-i-aktualizacja-spisu-treści---dwunasta-aktualizacja)
-- [2. \_Dramatis personae](#2-_dramatis-personae)
+- [1. Wprowadzenie](#1-wprowadzenie)
+- [2. _Dramatis personae_](#2-dramatis-personae)
 - [3. Miejsca akcji](#3-miejsca-akcji)
 - [4. Zawartość koszyczka](#4-zawartość-koszyczka)
 - [5. Kapturek](#5-kapturek)
@@ -14,7 +14,7 @@ Spis treści
 
 
 
-## 1. Wprowadzenie i aktualizacja spisu treści - dwunasta aktualizacja
+## 1. Wprowadzenie
 
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkająca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
 Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie [4](#4), bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu. 
@@ -22,18 +22,10 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 
 **Uwaga! Link może zawierać spoiler!**
 
-For English version, see ![test1](../images/test.docx)  Word  nie działa  
-For English version, see ![test2](../images/test.jpg)  jpg  działa  
-For English version, see ![test3](../images/test.pdf)  pdf  nie działa  
-For English version, see ![test4](../images//test.svg)  svg  działa  
-For English version, see ![test5](../images/test.tiff)  tiff nie działa  
-For English version, see ![test6](../images/test2.tiff)  zmniejszony tiff też nie działa  
-Test pliku tiff [test](../images/test%20TIFF_1MB.tiff) tiff z internetu nie działa  
  
+For English version, see ![test2](../images/test.jpg)   
 
-
-
-## 2. _Dramatis personae
+## 2. _Dramatis personae_
 
 * Kapturek
 * Babcia Kapturka
