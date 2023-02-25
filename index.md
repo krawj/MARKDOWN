@@ -1,1 +1,1 @@
-To jest strona i plik index [to tu](../)
+To jest strona i plik index [to](/praca%20domowa/praca%20domowa%20v2.md)
