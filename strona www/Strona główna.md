@@ -1,6 +1,6 @@
 
 # Oferta #
-logo: ![logo](logo%20gotowe%20ramka.GIF)
+![logo](logo%20gotowe%20ramka.GIF)  
 Oferuję tłumaczenia w parze językowej polski/angielski:
 *	pisemne i ustne, 
 *	zwykłe i uwierzytelnione (tzw. poświadczone).
