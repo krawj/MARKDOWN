@@ -23,7 +23,7 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 **Uwaga! Link może zawierać spoiler!**
 
  
-For English version, see ![English version](../images/test.jpg)  
+For English version, see ![English version](/images/test.jpg)  
 
 
 ## 2. _Dramatis personae
