@@ -4,7 +4,7 @@ Spis treści
 
 
 - [1. Wprowadzenie](#1-wprowadzenie)
-- [2. \_Dramatis personae](#2-_dramatis-personae)
+- [2. _Dramatis personae_](#2-dramatis-personae)
 - [3. Miejsca akcji](#3-miejsca-akcji)
 - [4. Zawartość koszyczka](#4-zawartość-koszyczka)
 - [5. Kapturek](#5-kapturek)
@@ -26,7 +26,7 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 For English version, see ![English version](/images/test.jpg)  
 
 
-## 2. _Dramatis personae
+## 2. _Dramatis personae_
 
 * KapturekP
 * Babcia Kapturka
@@ -55,7 +55,7 @@ A oto, co Kapturek miał w koszyczku:
 
 ## 5. Kapturek  
 A oto jak wyglada Kapturek. <sup>1.</sup>
-![kapturek](../images/czerwonykapturek.png "To jest Czerwony Kapturek")  
+![kapturek](./images/czerwonykapturek.png "To jest Czerwony Kapturek")  
 
 <sup>1.</sup> Źródło: Internet, oczywiście.  `Tu próbowałam zrobić przypis dolny, ale to chyba jednak nie tak się robi.`
 
