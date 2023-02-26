@@ -17,13 +17,15 @@ Spis treści
 ## 1. Wprowadzenie
 
 Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkająca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
-Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie [4](#4), bo była ogólnie bardzo zorganizowaną dziewczynką, i udała się do lasu. 
+Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie [4](#4), bo była bardzo zorganizowaną dziewczynką, i udała się do lasu. 
 Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](https://pl.wikipedia.org/wiki/Czerwony_Kapturek). Jednak ogólnie nie zalecamy czytania streszczeń, ani też zbytniego polegania na Wikipedii.
 
 **Uwaga! Link może zawierać spoiler!**
 
  
-For English version, see ![test2](../images/test.jpg)   
+For English version, see ![test2](../images/test.jpg)
+  
+_invalid image_
 
 ## 2. _Dramatis personae_
 
@@ -54,7 +56,9 @@ A oto, co Kapturek miał w koszyczku:
 
 ## 5. Kapturek  
 A oto jak wyglada Kapturek. <sup>1.</sup>
-![kapturek](../images/czerwonykapturek.png "To jest Czerwony Kapturek")  
+![kapturek](../images/czerwonykapturek.png "To jest Czerwony Kapturek")
+
+_invalid image_  
 
 <sup>1.</sup> Źródło: Internet, oczywiście.  `Tu próbowałam zrobić przypis dolny, ale to chyba jednak nie tak się robi.`
 
