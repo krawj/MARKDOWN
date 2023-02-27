@@ -23,9 +23,9 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 **Uwaga! Link może zawierać spoiler!**
 
  
-For English version, see ![test2](../images/test.jpg)
+For English version, see ![test2](images/test.jpg)
   
-_invalid image_
+
 
 ## 2. _Dramatis personae_
 
@@ -56,9 +56,9 @@ A oto, co Kapturek miał w koszyczku:
 
 ## 5. Kapturek  
 A oto jak wyglada Kapturek. <sup>1.</sup>
-![kapturek](../images/czerwonykapturek.png "To jest Czerwony Kapturek")
+![kapturek](images/czerwonykapturek.png "To jest Czerwony Kapturek")
 
-_invalid image_  
+
 
 <sup>1.</sup> Źródło: Internet, oczywiście.  `Tu próbowałam zrobić przypis dolny, ale to chyba jednak nie tak się robi.`
 
