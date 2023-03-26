@@ -5,8 +5,7 @@ Prepare these two items. Remove any outer packaging.
 
 **A tube of toothpaste** – a foldable package in the form of a cylindrical, hollow tube with a round or oval profile, usually made of plastic. On one end of the tube body there is a round opening closed with a screw-on cap. The other end is permanently sealed.  
 The tube is filled with **toothpaste** – a soft cream-like substance used for oral hygiene.    
-**A tube of toothpaste** – a foldable package in the form of a cylindrical, hollow tube with a round or oval profile, usually made of plastic. On one end of the tube body there is a round opening closed with a screw-on cap. The other end is permanently sealed.  
-The tube is filled with **toothpaste** – a soft cream-like substance used for oral hygiene.    
+
 ![This is toothpaste](../images/toothpaste.jfif)  
 
 1.	Take the tube of toothpaste in your dominant hand, the cap facing upwards. Place the cap between your thumb and the index finger of your other palm and turn it counterclockwise until loose.   
